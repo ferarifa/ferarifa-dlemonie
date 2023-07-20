@@ -19,7 +19,7 @@
     </div>
   </section><!-- End Hero -->
 
-  <main id="main">
+ <main id="main">
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients section-bg">
       <div class="container">
@@ -47,37 +47,40 @@
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a data-toggle="modal" data-target="#bd-tiktok"><img src="../../static/img/clients/Tiktok-logo.png" class="img-fluid" alt=""></a>
-          </div>
-          </div>
-        </div>
-        <div class="modal fade bd-example-modal-sm" id="bd-tiktok" tabindex="-1" role="dialog"  aria-labelledby="mySmallModalLabel" aria-hidden="true">
-      <div class="modal-dialog" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">Pilih Opsi Akun Tiktok</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <div class="modal-body">
-            <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@olshopskincaretasik?is_from_webapp=1&sender_device=pc">
-              <strong>Tiktok Skincare dan Kosmetik</strong>
-                <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
-            <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@ferarifa?is_from_webapp=1&sender_device=pc">
-              <strong>Tiktok Produk Kesehatan</strong>
-                <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
-            <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@lemonferashop?is_from_webapp=1&sender_device=pc">
-              <strong>Tiktok Pelangsing dan Tips Lainnya</strong>
-                <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div> 
-            </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Tutup</button>
+            <a data-bs-toggle="modal" href="#bd-tiktok"><img src="../../static/img/clients/Tiktok-logo.png" class="img-fluid" alt=""></a>
           </div>
         </div>
       </div>
-    </div>
     </section><!-- End Cliens Section -->
+
+     <!-- Modal -->
+     <div class="modal fade" id="bd-tiktok" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Pilih Opsi Akun Tiktok</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@olshopskincaretasik?is_from_webapp=1&sender_device=pc">
+                    <strong style="float: left">Tiktok Skincare dan Kosmetik</strong>
+                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
+                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@ferarifa?is_from_webapp=1&sender_device=pc">
+                    <strong style="float: left">Tiktok Produk Kesehatan</strong>
+                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
+                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@lemonferashop?is_from_webapp=1&sender_device=pc">
+                    <strong style="float: left">Tiktok Pelangsing dan Tips Lainnya</strong>
+                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24" style="float: right;">
+                  </a></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
+                </div>
+              </div>
+            </div>
+          </div>
 
   <!-- ======= About Us Section ======= -->
     <section id="about" class="about">

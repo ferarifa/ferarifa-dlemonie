@@ -3,15 +3,15 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-12 footer-contact">
-        <h4>Butuh Bantuan ?<img src="../../static../../static/img/system/down-arrow.gif" alt="Down Arrow" class="down-arrow"></h4>
-        <button type="button" class="btn" data-toggle="modal" data-target="#exampleModal">
-        <img src="../../static../../static/img/system/whatsapp-logo.png" width="150px" height="150px" alt="WhatsApp Logo 1" class="whatsapp-logo">
+        <h4>Butuh Bantuan ?<img src="../../static/img/system/down-arrow.gif" alt="Down Arrow" class="down-arrow"></h4>
+        <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">
+        <img src="../../static/img/system/whatsapp-logo.png" width="150px" height="150px" alt="WhatsApp Logo 1" class="whatsapp-logo">
         </button>
       </div>
       <div class="col-lg-6 col-md-6 col-12 footer-links">
-        <h4>Ingin Menjadi Reseller ?<img src="../../static../../static/img/system/down-arrow.gif" alt="Down Arrow" class="down-arrow"></h4>
-        <button type="button" class="btn" data-toggle="modal" data-target="#inginmenjadireseller">
-          <img src="../../static../../static/img/system/whatsapp-logo.png" width="150px" height="150px" alt="WhatsApp Logo 1" class="whatsapp-logo">
+        <h4>Ingin Menjadi Reseller ?<img src="../../static/img/system/down-arrow.gif" alt="Down Arrow" class="down-arrow"></h4>
+        <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#inginmenjadireseller">
+          <img src="../../static/img/system/whatsapp-logo.png" width="150px" height="150px" alt="WhatsApp Logo 1" class="whatsapp-logo">
         </button>
       </div>
       <div class="text-dark p-3">
@@ -27,7 +27,7 @@
   <div class="modal-content">
     <div class="modal-header">
       <h5 class="reseller-title">Butuh Bantuan ?<br/><small>Pilihan Customer Service :</small></h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -101,7 +101,7 @@
           <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
         </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
     </div>
   </div>
 </div>
@@ -113,7 +113,7 @@
   <div class="modal-content">
     <div class="modal-header">
       <h5 class="reseller-title">Ingin Menjadi Reseller ?<br/><small>Pilihan Customer Service :</small></h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>      
@@ -187,7 +187,7 @@
           <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
         </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
     </div>
   </div>
 </div>

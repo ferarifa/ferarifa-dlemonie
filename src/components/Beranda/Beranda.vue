@@ -9,7 +9,7 @@
           <h1>Distributor D'Lemonie Tasikmalaya</h1>
           <h2>Produk kesehatan terbaik, inspirasi gaya hidup tak terbatas.</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started scrollto">Mulai Sekarang</a>
+            <a href="#about" class="btn-get-started scrollable">Mulai Sekarang</a>
           </div><br/><br/>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -19,7 +19,7 @@
     </div>
   </section><!-- End Hero -->
 
- <main id="main">
+  <main id="main">
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients section-bg">
       <div class="container">
@@ -81,6 +81,7 @@
               </div>
             </div>
           </div>
+    
 
   <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
@@ -121,20 +122,20 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-<a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatdlemonie">Cek Manfaatnya Disini</a>
+      <a href="" class="btn-get-manfaat" data-bs-toggle="modal" data-bs-target="#manfaatdlemonie">Cek Manfaatnya Disini</a>
 
-<!-- Modal -->
-<div class="modal fade" id="manfaatdlemonie" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat D'Lemonie</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-      </button>
-    </div>
-    <div class="modal-body">
-      <ul>
+      <!-- Modal -->
+      <div class="modal fade " id="manfaatdlemonie" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalScrollable">Manfaat D'Lemonie</h5>
+            <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <ul>
         <li><i class="bi-check-square-fill"></i> Menjaga daya tahan tubuh</li>
         <li><i class="bi-check-square-fill"></i> Detoksifikasi toxin dalam tubuh</li>
         <li><i class="bi-check-square-fill"></i> Melancarkan pencernaan (BAB/BAK)</li>
@@ -155,11 +156,10 @@
         <li><i class="bi-check-square-fill"></i> Memperkecil pori-pori kulit</li>
         <li><i class="bi-check-square-fill"></i> Aman bagi penderita maag</li>
         <li><i class="bi-check-square-fill"></i> Mampu menurunkan berat badan sebulan 2-5kg</li>
-
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -171,46 +171,47 @@
     </div><br/><br/>
   
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselDlemonie" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/dlemonie/dlemonie1.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/dlemonie/dlemonie2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/dlemonie/dlemonie3.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-            </div>
+  <h3><strong>Testimoni</strong></h3>
+  <div id="carouselDlemonie" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="../../static/img/testimoni/dlemonie/dlemonie1.jpeg" class="d-block w-100 testimonial-img" alt="...">
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/dlemonie/dlemonie4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/dlemonie/dlemonie5.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/dlemonie/dlemonie6.jpeg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>            
+          <div class="col-md-4">
+            <img src="../../static/img/testimoni/dlemonie/dlemonie2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+          </div>
+          <div class="col-md-4">
+            <img src="../../static/img/testimoni/dlemonie/dlemonie3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+          </div>
         </div>
-        <a class="carousel-control-prev" href="#carouselDlemonie" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselDlemonie" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="../../static/img/testimoni/dlemonie/dlemonie4.jpeg" class="d-block w-100" alt="...">
+          </div>
+          <div class="col-md-4">
+            <img src="../../static/img/testimoni/dlemonie/dlemonie5.jpeg" class="d-block w-100" alt="...">
+          </div>
+          <div class="col-md-4">
+            <img src="../../static/img/testimoni/dlemonie/dlemonie6.jpeg" class="d-block w-100" alt="...">
+          </div>
+        </div>
       </div>
     </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselDlemonie" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselDlemonie" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</div>
+
   
     <br/><br/>
     <div class="container garis-panjang"></div>
@@ -226,7 +227,7 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatrajanie">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatrajanie">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
@@ -235,7 +236,7 @@
   <div class="modal-content">
     <div class="modal-header">
       <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Rajanie</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -274,7 +275,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -285,47 +286,47 @@
       </div>
     </div><br/><br/>
     
-    <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselRajanie" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rajanie/rajanie1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            <div class="container">
+          <h3><strong>Testimoni</strong></h3>
+          <div id="carouselRajanie" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div class="row">
+                  <div class="col-md-4">
+                    <img src="../../static/img/testimoni/rajanie/rajanie1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                  </div>
+                  <div class="col-md-4">
+                    <img src="../../static/img/testimoni/rajanie/rajanie2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                  </div>
+                  <div class="col-md-4">
+                    <img src="../../static/img/testimoni/rajanie/rajanie3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                  </div>
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rajanie/rajanie2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rajanie/rajanie3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+              <div class="carousel-item">
+                <div class="row">
+                  <div class="col-md-4">
+                    <img src="../../static/img/testimoni/rajanie/rajanie4.jpeg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="col-md-4">
+                    <img src="../../static/img/testimoni/rajanie/rajanie5.jpeg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="col-md-4">
+                    <img src="../../static/img/testimoni/rajanie/rajanie6.jpeg" class="d-block w-100" alt="...">
+                  </div>
+                </div>
               </div>
             </div>
-          </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rajanie/rajanie4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rajanie/rajanie5.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rajanie/rajanie6.jpeg" class="d-block w-100" alt="...">
-              </div>
-            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselRajanie" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselRajanie" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
         </div>
-        <a class="carousel-control-prev" href="#carouselRajanie" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselRajanie" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-      </div>
-    </div>
 
     <br/><br/>
     <div class="container garis-panjang"></div>
@@ -341,16 +342,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatlemonieskin">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatlemonieskin">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatlemonieskin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Lemonie Skin</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Lemonie Skin</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -373,7 +374,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -388,131 +389,134 @@
         </div>
     </div><br/><br/>
     
-    <div class="container">
-      <h3><strong>Testimoni Skincare Acne</strong></h3>
-      <div id="carouselLemonieskinacne" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne1.png" class="d-block w-100 testimonial-img" alt="...">
+          <div class="container">
+        <h3><strong>Testimoni Skincare Acne</strong></h3>
+        <div id="carouselLemonieskinacne" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne1.png" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne4.png" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne5.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne6.jpg" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne4.png" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne5.jpg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareacne/skincareacne6.jpg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselLemonieskinacne" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselLemonieskinacne" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselLemonieskinacne" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselLemonieskinacne" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
 
-    <div class="container">
-      <h3><strong>Testimoni Skincare Flek</strong></h3>
-      <div id="carouselLemonieskinflek" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+      <div class="container">
+        <h3><strong>Testimoni Skincare Flek</strong></h3>
+        <div id="carouselLemonieskinflek" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek4.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek5.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek6.jpg" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek5.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareflek/skincareflek6.jpg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselLemonieskinflek" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselLemonieskinflek" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselLemonieskinflek" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselLemonieskinflek" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
 
-    <div class="container">
-      <h3><strong>Testimoni Skincare Glowing</strong></h3>
-      <div id="carouselLemonieskinglowing" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+      <div class="container">
+        <h3><strong>Testimoni Skincare Glowing</strong></h3>
+        <div id="carouselLemonieskinglowing" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing4.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing5.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing6.webp" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing5.jpg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieskin/skincareglowing/skincareglowing6.webp" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselLemonieskinglowing" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselLemonieskinglowing" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselLemonieskinglowing" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselLemonieskinglowing" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div>
+
 
     <br/><br/>
     <div class="container garis-panjang"></div>
@@ -528,16 +532,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatlemonieglow">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatlemonieglow">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatlemonieglow" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Lemonie Glow</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Lemonie Glow</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -555,7 +559,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -570,133 +574,134 @@
       </div>
     </div><br/><br/>
     
-    <div class="container">
-      <h3><strong>Testimoni Lemonie-Glow Glowing</strong></h3>
-      <div id="carouselLemonieglowglowing" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+      <div class="container">
+        <h3><strong>Testimoni Lemonie-Glow Glowing</strong></h3>
+        <div id="carouselLemonieglowglowing" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing4.webp" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing5.webp" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing6.jpg" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing4.webp" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing5.webp" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowglowing/lemonieglowglowing6.jpg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselLemonieglowglowing" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselLemonieglowglowing" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselLemonieglowglowing" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselLemonieglowglowing" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
 
-    <div class="container">
-      <h3><strong>Testimoni Lemonie-Glow Acne</strong></h3>
-      <div id="carouselLemonieglowacne" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+      <div class="container">
+        <h3><strong>Testimoni Lemonie-Glow Acne</strong></h3>
+        <div id="carouselLemonieglowacne" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne4.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne5.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne6.jpg" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne5.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowacne/lemonieglowacne6.jpg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselLemonieglowacne" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselLemonieglowacne" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselLemonieglowacne" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselLemonieglowacne" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div>
-
     <br/><br/>
 
     <div class="container">
-      <h3><strong>Testimoni Lemonie-Glow Flek</strong></h3>
-      <div id="carouselLemonieglowflek" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni Lemonie-Glow Flek</strong></h3>
+        <div id="carouselLemonieglowflek" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek3.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek3.jpg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek4.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek5.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek6.jpeg" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek5.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/lemonieglow/lemonieglowflek/lemonieglowflek6.jpeg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselLemonieglowflek" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselLemonieglowflek" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselLemonieglowflek" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselLemonieglowflek" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -710,16 +715,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatrhannie">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatrhannie">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatrhannie" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Rhannie</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Rhannie</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -737,7 +742,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -749,46 +754,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselRhannie" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rhannie/rhannie1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselRhannie" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/rhannie/rhannie1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/rhannie/rhannie2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/rhannie/rhannie3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rhannie/rhannie2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rhannie/rhannie3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/rhannie/rhannie4.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/rhannie/rhannie5.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/rhannie/rhannie6.jpg" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rhannie/rhannie4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rhannie/rhannie5.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/rhannie/rhannie6.jpg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselRhannie" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselRhannie" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselRhannie" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselRhannie" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -802,16 +808,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatapelsilaxing">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatapelsilaxing">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatapelsilaxing" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Apel Silaxing</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Apel Silaxing</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -829,7 +835,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -841,46 +847,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselApelsilaxing" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselApelsilaxing" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing4.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing5.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing6.jpeg" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing5.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/apelsilaxing/apelsilaxing6.jpeg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselApelsilaxing" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselApelsilaxing" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselApelsilaxing" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselApelsilaxing" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -894,16 +901,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatcl-emonie">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatcl-emonie">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatcl-emonie" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat CL-emonie</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat CL-emonie</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -933,7 +940,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -945,46 +952,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselCL-emonie" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cl-emonie/cl-emonie1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselCL-emonie" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cl-emonie/cl-emonie1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cl-emonie/cl-emonie2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cl-emonie/cl-emonie3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cl-emonie/cl-emonie2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cl-emonie/cl-emonie3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cl-emonie/cl-emonie4.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cl-emonie/cl-emonie5.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cl-emonie/cl-emonie6.jpg" class="d-block w-100" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cl-emonie/cl-emonie4.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cl-emonie/cl-emonie5.jpeg" class="d-block w-100" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cl-emonie/cl-emonie6.jpg" class="d-block w-100" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselCL-emonie" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselCL-emonie" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselCL-emonie" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselCL-emonie" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -999,16 +1007,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatbodyserum-lemonieskin">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatbodyserum-lemonieskin">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatbodyserum-lemonieskin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Body Serum LemonieSkin</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Body Serum LemonieSkin</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -1027,7 +1035,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -1039,46 +1047,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselBodyserum-Lemonieskin" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin1.jpg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselBodyserum-Lemonieskin" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin1.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin2.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin3.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin2.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin3.jpg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin4.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin5.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin6.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin4.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin5.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bodyserum-lemonieskin/bodyserum-lemonieskin6.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselBodyserum-Lemonieskin" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselBodyserum-Lemonieskin" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselBodyserum-Lemonieskin" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselBodyserum-Lemonieskin" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -1092,16 +1101,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatchusion-lemonieskin">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatchusion-lemonieskin">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatchusion-lemonieskin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Chusion LemonieSkin</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Chusion LemonieSkin</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -1118,7 +1127,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -1130,46 +1139,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselChusion-Lemonieskin" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselChusion-Lemonieskin" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin4.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin5.png" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin6.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin4.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin5.png" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/cushion-lemonieskin/cushion-lemonieskin6.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselChusion-Lemonieskin" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselChusion-Lemonieskin" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselChusion-Lemonieskin" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselChusion-Lemonieskin" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -1183,16 +1193,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatbbcream-lemonieskin">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatbbcream-lemonieskin">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatbbcream-lemonieskin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">BB Cream LemonieSkin</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">BB Cream LemonieSkin</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -1209,7 +1219,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -1221,46 +1231,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselBbcream-Lemonieskin" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselBbcream-Lemonieskin" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin2.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin4.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin5.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin6.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin4.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin5.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/bbcream-lemonieskin/bbcream-lemonieskin6.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselBbcream-Lemonieskin" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselBbcream-Lemonieskin" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselBbcream-Lemonieskin" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselBbcream-Lemonieskin" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -1275,16 +1286,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatjalamonie">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatjalamonie">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatjalamonie" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Jalamonie</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Jalamonie</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -1304,7 +1315,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -1316,46 +1327,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselJalamonie" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/jalamonie/jalamonie1.webp" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselJalamonie" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jalamonie/jalamonie1.webp" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jalamonie/jalamonie2.webp" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jalamonie/jalamonie3.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/jalamonie/jalamonie2.webp" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/jalamonie/jalamonie3.jpg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jalamonie/jalamonie4.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jalamonie/jalamonie5.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jalamonie/jalamonie6.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/jalamonie/jalamonie4.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/jalamonie/jalamonie5.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/jalamonie/jalamonie6.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselJalamonie" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselJalamonie" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselJalamonie" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselJalamonie" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -1370,16 +1382,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatchaseed">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatchaseed">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatchaseed" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Chia Seed</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Chia Seed</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -1394,7 +1406,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -1419,16 +1431,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatpeelingspraylemonieskin">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatpeelingspraylemonieskin">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatpeelingspraylemonieskin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Peeling Spray LemonieSkin</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Peeling Spray LemonieSkin</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -1444,7 +1456,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -1456,46 +1468,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselPeelingspray" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury1.jpg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselPeelingspray" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury1.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury2.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury3.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury2.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury3.jpg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury4.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury5.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury6.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury4.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury5.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury6.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselPeelingspray" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselPeelingspray" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselPeelingspray" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselPeelingspray" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -1509,16 +1522,16 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaatserumluxurylemonieskin">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatserumluxurylemonieskin">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatserumluxurylemonieskin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Serum Luxury LemonieSkin</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Serum Luxury LemonieSkin</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -1533,7 +1546,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -1545,46 +1558,47 @@
     </div><br/><br/>
     
     <div class="container">
-      <h3><strong>Testimoni</strong></h3>
-      <div id="carouselSerumluxury" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury1.jpg" class="d-block w-100 testimonial-img" alt="...">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselSerumluxury" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury1.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury2.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury3.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury2.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury3.jpg" class="d-block w-100 testimonial-img" alt="...">
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury4.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury5.jpg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury6.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury4.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury5.jpg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-              <div class="col-md-4">
-                <img src="../../static/img/testimoni/peelingspray-serumluxury/peelingspray-serumluxury6.jpeg" class="d-block w-100 testimonial-img" alt="...">
-              </div>
-            </div>
-          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselSerumluxury" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselSerumluxury" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <a class="carousel-control-prev" href="#carouselSerumluxury" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselSerumluxury" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
       </div>
-    </div><br/><br/>
+      <br/><br/>
     <div class="container garis-panjang"></div>
     <br/><br/>
   
@@ -1598,7 +1612,7 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollto" data-toggle="modal" data-target="#manfaathimalayansaltfine">Cek Manfaatnya Disini</a>
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaathimalayansaltfine">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
@@ -1607,7 +1621,7 @@
   <div class="modal-content">
     <div class="modal-header">
       <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Himalayan Salt Fine</h5>
-      <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
@@ -1626,7 +1640,7 @@
       </ul>
     </div>
     <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-dismiss="modal">OK</button>
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
     </div>
   </div>
 </div>
@@ -1670,18 +1684,17 @@
               <div class="portfolio-info">
                 <h4>D'Lemonie</h4>
                 <p>Minuman</p>
-                <a href="img/rincian/zoom/produk-dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="D'Lemonie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#dlemonie"><i class="bi bi-cart4"></i></a>
-                </div>
-            </div>
-  
-  <!-- Modal -->
+                <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="D'Lemonie"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie"><i class="bi bi-cart4"></i></a>
+              </div>
+          </div>
+    <!-- Modal -->
   <div class="modal fade" id="dlemonie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-xl modal-dialog-scrollable">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="reseller-title">D'Lemonie<br/></h5>
-          <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+  <div class="modal-dialog modal-xl modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="reseller-title">D'Lemonie<br/></h5>
+          <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
@@ -1752,7 +1765,7 @@
           </section>
           </div>
           <div class="modal-footer">
-              <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+              <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
             </div>
         </div>
       </div>
@@ -1764,8 +1777,8 @@
               <div class="portfolio-info">
                 <h4>Rajanie</h4>
                 <p>Minuman</p>
-                <a href="img/rincian/zoom/produk-rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rajanie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#rajanie"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/produk-rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rajanie"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#rajanie"><i class="bi bi-cart4"></i></a>
                 </div>
             </div>
   
@@ -1775,7 +1788,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="reseller-title">Rajanie<br/></h5>
-          <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+          <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
@@ -1840,7 +1853,7 @@
               </section>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+              <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
             </div>
           </div>
         </div>
@@ -1851,8 +1864,8 @@
               <div class="portfolio-info">
                 <h4>3 Botol D'Lemonie</h4>
                 <p>Promo Seller</p>
-                <a href="img/rincian/zoom/dlemonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'Lemonie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#tigabotoldlemonie"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/dlemonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'Lemonie"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#tigabotoldlemonie"><i class="bi bi-cart4"></i></a>
                 </div>
             </div>
   
@@ -1862,7 +1875,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="reseller-title">3 Botol D'Lemonie<br/></h5>
-          <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+          <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
@@ -1927,7 +1940,7 @@
               </section>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+              <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
             </div>
           </div>
         </div>
@@ -1938,8 +1951,8 @@
               <div class="portfolio-info">
                 <h4>3 Botol Rajanie</h4>
                 <p>Promo Seller</p>
-                <a href="img/rincian/zoom/rajanie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol Rajanie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#tigabotolrajanie"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/rajanie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol Rajanie"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#tigabotolrajanie"><i class="bi bi-cart4"></i></a>
                 </div>
             </div>
   
@@ -1949,7 +1962,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="reseller-title">3 Botol Rajanie<br/></h5>
-          <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+          <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
@@ -2011,7 +2024,7 @@
               </section>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+              <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
             </div>
           </div>
         </div>
@@ -2022,8 +2035,8 @@
               <div class="portfolio-info">
                 <h4>2 D'LEMONIE + 1 RAJANIE</h4>
                 <p>Promo Seller</p>
-                <a href="img/rincian/zoom/2dlemonie-1rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol D'LEMONIE + 1 Botol RAJANIE"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#dlemonie-rajanie"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/2dlemonie-1rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol D'LEMONIE + 1 Botol RAJANIE"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie-rajanie"><i class="bi bi-cart4"></i></a>
                 </div>
             </div>
   
@@ -2033,7 +2046,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="reseller-title">2 Botol D'LEMONIE + 1 Botol RAJANIE<br/></h5>
-          <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+          <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
@@ -2098,7 +2111,7 @@
               </section>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+              <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
             </div>
           </div>
         </div>
@@ -2109,8 +2122,8 @@
               <div class="portfolio-info">
                 <h4>2 RAJANIE + 1 D'LEMONIE</h4>
                 <p>Promo Seller</p>
-                <a href="img/rincian/zoom/2rajanie-1dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol RAJANIE + 1 Botol D'LEMONIE"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#rajanie-dlemonie"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/2rajanie-1dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol RAJANIE + 1 Botol D'LEMONIE"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#rajanie-dlemonie"><i class="bi bi-cart4"></i></a>
                 </div>
             </div>
   
@@ -2120,7 +2133,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="reseller-title">2 Botol RAJANIE + 1 Botol D'LEMONIE<br/></h5>
-          <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+          <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
@@ -2185,7 +2198,7 @@
               </section>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+              <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
             </div>
           </div>
         </div>
@@ -2196,8 +2209,8 @@
               <div class="portfolio-info">
                 <h4>3 D'LEMONIE + <br> 1 APEL SILAXING</h4>
                 <p>Promo Seller</p>
-                <a href="../../img/rincian/zoom/3dlemonie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'LEMONIE + 1 APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#dlemonie-apelsilaxing"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/3dlemonie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'LEMONIE + 1 APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie-apelsilaxing"><i class="bi bi-cart4"></i></a>
                 </div>
             </div>
   
@@ -2207,7 +2220,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="reseller-title">3 Botol D'LEMONIE + 1 Botol APEL SILAXING<br/></h5>
-          <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+          <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
@@ -2274,7 +2287,7 @@
               </section>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+              <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
             </div>
           </div>
         </div>
@@ -2285,8 +2298,8 @@
               <div class="portfolio-info">
                 <h4>2 D'LEMONIE + 1 RAJANIE <br>1 APEl SILAXING</h4>
                 <p>Promo Seller</p>
-                <a href="../../img/rincian/zoom/2dlemonie-1rajanie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol D'LEMONIE + 1 Botol RAJANIE + 1 Botol APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#dlemonie-rajanie-apelsilaxing"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/2dlemonie-1rajanie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol D'LEMONIE + 1 Botol RAJANIE + 1 Botol APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie-rajanie-apelsilaxing"><i class="bi bi-cart4"></i></a>
                 </div>
             </div>
   
@@ -2296,7 +2309,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="reseller-title">2 Botol D'LEMONIE + 1 Botol RAJANIE + 1 Botol APEL SILAXING<br/></h5>
-          <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+          <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
@@ -2363,7 +2376,7 @@
               </section>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+              <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
             </div>
           </div>
         </div>
@@ -2376,8 +2389,8 @@
               <div class="portfolio-info">
                 <h4>Paket LemonieSkin Acne</h4>
                 <p>Paketan</p>
-                <a href="/img/rincian/zoom/lemonieskin-acne.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Acne"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskinacne"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieskin-acne.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Acne"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskinacne"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -2387,7 +2400,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket LemonieSkin Acne<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -2470,7 +2483,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -2483,7 +2496,7 @@
                 <h4>Paket LemonieSkin Flek</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/flek.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Flek"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskinflek"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskinflek"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -2493,7 +2506,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket LemonieSkin Flek<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -2576,7 +2589,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -2589,8 +2602,8 @@
               <div class="portfolio-info">
                 <h4>Paket LemonieSkin Glowing</h4>
                 <p>Paketan</p>
-                <a href="/img/rincian/zoom/lemonieskin-glowing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Glowing"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskinglowing"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieskin-glowing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Glowing"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskinglowing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
     <!-- Modal -->
@@ -2599,7 +2612,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket LemonieSkin Glowing<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -2682,7 +2695,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -2694,7 +2707,7 @@
                 <h4>Paket LemonieGlow Glowing</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-glowing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Glowing"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-glowing"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-glowing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -2704,7 +2717,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket LemonieGlow Glowing<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -2776,7 +2789,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -2789,7 +2802,7 @@
                 <h4>Paket LemonieGlow Flek</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-flek.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Flek"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-flek"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-flek"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -2799,7 +2812,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket LemonieGlow Flek<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -2871,7 +2884,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -2883,7 +2896,7 @@
                 <h4>Paket LemonieGlow Acne</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-acne.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Acne"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-acne"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-acne"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -2893,7 +2906,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket LemonieGlow Acne<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -2965,7 +2978,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -2977,8 +2990,8 @@
               <div class="portfolio-info">
                 <h4>LemonieGlow Facial wash</h4>
                 <p>kosmetik</p>
-                <a href="/img/rincian/zoom/lemonieglow-facialwash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Facial wash"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-facialwash"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieglow-facialwash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Facial wash"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-facialwash"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -2988,7 +3001,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieGlow Facial wash<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3011,7 +3024,7 @@
                     </div>
     
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-facialwash/lemonieglow-facialwash3.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-facialwash/lemonieglow-facialwash3.mp4"></video>
                     </div>
     
                   </div>
@@ -3054,7 +3067,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3067,7 +3080,7 @@
                 <h4>LemonieGlow Toner</h4>
                 <p>kosmetik</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-toner.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Toner"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-toner"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-toner"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3077,7 +3090,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieGlow Toner<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3100,7 +3113,7 @@
                     </div>
     
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-toner/lemonieglow-toner3.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-toner/lemonieglow-toner3.mp4"></video>
                     </div>
     
                   </div>
@@ -3143,7 +3156,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3156,8 +3169,8 @@
               <div class="portfolio-info">
                 <h4>LemonieGlow Serum WHD</h4>
                 <p>kosmetik</p>
-                <a href="/img/rincian/zoom/lemonieglow-serum-withhoneydew.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Serum With Honey Dew"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-serum-withhoneydew"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieglow-serum-withhoneydew.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Serum With Honey Dew"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-serum-withhoneydew"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3167,7 +3180,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieGlow Serum With Honey Dew<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3190,11 +3203,11 @@
                     </div>
     
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew3.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew3.mp4"></video>
                     </div>
 
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew4.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew4.mp4"></video>
                     </div>
     
                   </div>
@@ -3237,7 +3250,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3250,7 +3263,7 @@
                 <h4>LemonieGlow Day Cream</h4>
                 <p>kosmetik</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-daycream.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Day Cream"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-daycream"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-daycream"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3260,7 +3273,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieGlow Day Cream<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3322,7 +3335,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3334,8 +3347,8 @@
               <div class="portfolio-info">
                 <h4>LemonieGlow Night Cream Acne</h4>
                 <p>kosmetik</p>
-                <a href="/img/rincian/zoom/lemonieglow-nightcreamacne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Acne"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-nightcreamacne"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieglow-nightcreamacne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Acne"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-nightcreamacne"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3345,7 +3358,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieGlow Night Cream Acne<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3372,7 +3385,7 @@
                     </div>
 
                      <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-nightcreamacne/lemonieglow-nightcreamacne4.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-nightcreamacne/lemonieglow-nightcreamacne4.mp4"></video>
                     </div>
     
                   </div>
@@ -3415,7 +3428,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3428,7 +3441,7 @@
                 <h4>LemonieGlow Night Cream Flex</h4>
                 <p>kosmetik</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-nightcreamflex.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Flex"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-nightcreamflex"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-nightcreamflex"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3438,7 +3451,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieGlow Night Cream Flex<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3461,7 +3474,7 @@
                     </div>
 
                      <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-nightcreamflex/lemonieglow-nightcreamflex3.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-nightcreamflex/lemonieglow-nightcreamflex3.mp4"></video>
                     </div>
     
                   </div>
@@ -3505,7 +3518,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3517,8 +3530,8 @@
               <div class="portfolio-info">
                 <h4>LemonieGlow NC Glowing</h4>
                 <p>kosmetik</p>
-                <a href="/img/rincian/zoom/lemonieglow-nightcreamglowing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Glowing"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieglow-nightcreamglowing"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieglow-nightcreamglowing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Glowing"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-nightcreamglowing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3528,7 +3541,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieGlow Night Cream Glowing<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3591,7 +3604,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3602,8 +3615,8 @@
               <div class="portfolio-info">
                 <h4>Rhannie</h4>
                 <p>Obat-obatan</p>
-                <a href="img/rincian/zoom/rhannie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rhannie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#rhannie"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/rhannie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rhannie"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#rhannie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3613,7 +3626,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Rhannie<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3685,7 +3698,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3697,7 +3710,7 @@
                 <h4>Apel Silaxing</h4>
                 <p>Obat-obatan</p>
                 <a href="../../static/img/rincian/zoom/apelsilaxing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Apel Silaxing"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#apelsilaxing"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#apelsilaxing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3707,7 +3720,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Apel Silaxing<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3779,7 +3792,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3791,7 +3804,7 @@
                 <h4>CL-emonie</h4>
                 <p>Obat-obatan</p>
                 <a href="../../static/img/rincian/zoom/cl-emonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="CL-emonie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#cl-emonie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cl-emonie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3801,7 +3814,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">CL-emonie<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3891,7 +3904,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3903,7 +3916,7 @@
                 <h4>Body Serum LemonieSkin</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/bodyserum-lemonieskin.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Body Serum LemonieSkin"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#Bodyserumlemonie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#Bodyserumlemonie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -3913,7 +3926,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Body Serum LemonieSkin<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -3978,7 +3991,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -3989,8 +4002,8 @@
               <div class="portfolio-info">
                 <h4>Paket DRAJA</h4>
                 <p>Paketan</p>
-                <a href="img/rincian/zoom/draja.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket DRAJA (D'Lemonie dan Rajanie)"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#draja"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/draja.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket DRAJA (D'Lemonie dan Rajanie)"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#draja"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4000,7 +4013,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket Draja<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4075,7 +4088,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4087,7 +4100,7 @@
                 <h4>Cushion LemonieSkin</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/cushion-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cushion LemonieSkin"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#cushion-lemonieskin"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cushion-lemonieskin"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4097,7 +4110,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Cushion LemonieSkin<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4112,7 +4125,7 @@
                   <div class="swiper-wrapper align-items-center" style="width: 120px; height: 392px; background-size: cover;">
     
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/cushion-lemonieskin/cushion-lemonieskin1.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/cushion-lemonieskin/cushion-lemonieskin1.mp4"></video>
                     </div>
     
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
@@ -4168,7 +4181,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4180,7 +4193,7 @@
                 <h4>Chia Seed</h4>
                 <p>Minuman</p>
                 <a href="../../static/img/rincian/zoom/chiaseed.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Chia Seed"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#chiaseed"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#chiaseed"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4190,7 +4203,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Chia Seed<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4251,7 +4264,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4263,7 +4276,7 @@
                 <h4>Jalamonie</h4>
                 <p>Minuman</p>
                 <a href="../../static/img/rincian/zoom/jalamonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Jalamonie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#jalamonie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#jalamonie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4273,7 +4286,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Jalamonie<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4346,7 +4359,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4358,7 +4371,7 @@
                 <h4>Paket Adel</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/adel.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket Adel"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#adel"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#adel"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4368,7 +4381,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket Adel<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4443,7 +4456,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4454,8 +4467,8 @@
               <div class="portfolio-info">
                 <h4>LemonieSkin Day Cream</h4>
                 <p>Kosmetik</p>
-                <a href="img/rincian/zoom/lemonieskin-daycream.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Day Cream"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskin-daycream"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieskin-daycream.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Day Cream"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-daycream"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4465,7 +4478,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieSkin Day Cream<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4488,7 +4501,7 @@
                     </div>
               
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-daycream/lemonieskin-daycream3.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-daycream/lemonieskin-daycream3.mp4"></video>
                     </div>
                     
                   </div>
@@ -4541,7 +4554,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4552,8 +4565,8 @@
               <div class="portfolio-info">
                 <h4>LemonieSkin Facial Wash</h4>
                 <p>Kosmetik</p>
-                <a href="img/rincian/zoom/lemonieskin-facialwash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Facial Wash"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskin-facialwash"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieskin-facialwash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Facial Wash"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-facialwash"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4563,7 +4576,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieSkin Facial Wash<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4645,7 +4658,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4656,8 +4669,8 @@
               <div class="portfolio-info">
                 <h4>LemonieSkin Serum G&W</h4>
                 <p>Kosmetik</p>
-                <a href="img/rincian/zoom/lemonieskin-serum-glow&white.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Serum GLOW & WHITE"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskin-serum-glowandwhite"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieskin-serum-glow&white.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Serum GLOW & WHITE"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-serum-glowandwhite"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4667,7 +4680,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieSkin Serum GLOW & WHITE<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4682,7 +4695,7 @@
                   <div class="swiper-wrapper align-items-center">
     
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-serum-glow&white/lemonieskin-serum-glow&white1.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-serum-glow&white/lemonieskin-serum-glow&white1.mp4"></video>
                     </div>
     
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
@@ -4734,7 +4747,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4745,8 +4758,8 @@
               <div class="portfolio-info">
                 <h4>LemonieSkin Toner</h4>
                 <p>Kosmetik</p>
-                <a href="img/rincian/zoom/lemonieskin-toner.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Toner"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskin-toner"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieskin-toner.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Toner"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-toner"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4756,7 +4769,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieSkin Toner<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4816,7 +4829,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4827,8 +4840,8 @@
               <div class="portfolio-info">
                 <h4>LemonieSkin NC Glowing</h4>
                 <p>Kosmetik</p>
-                <a href="img/rincian/zoom/lemonieskin-nightcreamglowing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Glowing"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskin-nightcreamglowing"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieskin-nightcreamglowing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Glowing"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-nightcreamglowing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4838,7 +4851,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieSkin Night Cream Glowing<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4902,7 +4915,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -4915,7 +4928,7 @@
                 <h4>LemonieSkin Night Cream Flex</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/lemonieskin-nightcreamflex.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Flex"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskin-nightcreamflex"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-nightcreamflex"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -4925,7 +4938,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieSkin Night Cream Flex<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -4990,7 +5003,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5002,7 +5015,7 @@
                 <h4>LemonieSkin Night Cream Acne</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/lemonieskin-nightcreamacne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Acne"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lemonieskin-nightcreamacne"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-nightcreamacne"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5012,7 +5025,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">LemonieSkin Night Cream Acne<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5075,7 +5088,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5087,7 +5100,7 @@
                 <h4>1 Dus D'Lemonie</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/1dusdlemonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="1 Dus D'Lemonie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#satukardusdlemonie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#satukardusdlemonie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5097,7 +5110,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">1 Dus D'Lemonie<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5169,7 +5182,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5180,8 +5193,8 @@
               <div class="portfolio-info">
                 <h4>1 Dus Rajanie</h4>
                 <p>Paketan</p>
-                <a href="img/rincian/zoom/1dusrajanie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="1 Dus Rajanie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#satukardusrajanie"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/1dusrajanie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="1 Dus Rajanie"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#satukardusrajanie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5191,7 +5204,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">1 Dus Rajanie<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5257,7 +5270,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5268,8 +5281,8 @@
               <div class="portfolio-info">
                 <h4>Peeling Spray LemonieSkin</h4>
                 <p>Kosmetik</p>
-                <a href="img/rincian/zoom/peelingspray-bylemonieskin.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Peeling Spray LemonieSkin"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#peelingspray-lemonieskin"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/peelingspray-bylemonieskin.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Peeling Spray LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#peelingspray-lemonieskin"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5279,7 +5292,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Peeling Spray LemonieSkin<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5343,7 +5356,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5354,8 +5367,8 @@
               <div class="portfolio-info">
                 <h4>Serum Luxury LemonieSkin</h4>
                 <p>Kosmetik</p>
-                <a href="img/rincian/zoom/lemonieskin-byserumluxury.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Serum Luxury LemonieSkin"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#serumluxury-lemonieskin"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/lemonieskin-byserumluxury.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Serum Luxury LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#serumluxury-lemonieskin"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5365,7 +5378,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Serum Luxury LemonieSkin<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5432,7 +5445,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5443,8 +5456,8 @@
               <div class="portfolio-info">
                 <h4>Peeling Spray & Serum Luxury</h4>
                 <p>Kosmetik</p>
-                <a href="img/rincian/zoom/peelingspray-serumluxury-bylemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket Peeling Spray & Serum Luxury by LemonieSkin"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#peelingspray-serumluxury-bylemonieskin"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/peelingspray-serumluxury-bylemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket Peeling Spray & Serum Luxury by LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#peelingspray-serumluxury-bylemonieskin"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5454,7 +5467,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket Peeling Spray & Serum Luxury by LemonieSkin<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5521,7 +5534,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5533,7 +5546,7 @@
                 <h4>Blender Mini Portable</h4>
                 <p>Peralatan</p>
                 <a href="../../static/img/rincian/zoom/blender.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Blender Mini Portable USB Charger"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#blender"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#blender"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5543,7 +5556,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Blender Mini Portable USB Charger<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5562,7 +5575,7 @@
                     </div>
     
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/blender/blender2.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/blender/blender2.mp4"></video>
                     </div>
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
                       <img src="../../static/img/produk/blender/blender3.jpg" alt="">
@@ -5631,7 +5644,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5643,7 +5656,7 @@
                 <h4>Gelas Saringan Cantik</h4>
                 <p>Peralatan</p>
                 <a href="../../static/img/rincian/zoom/gelassaringancantik.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Gelas Saringan Cantik"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#gelassaringancantik"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#gelassaringancantik"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5653,7 +5666,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Gelas Saringan Cantik<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5720,7 +5733,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5732,7 +5745,7 @@
                 <h4>Lipcream Matte LAMEILA</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/lipcream-matte.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lipcream Matte LAMELIA"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#lipcream-matte"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lipcream-matte"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5742,7 +5755,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Lipcream Matte LAMEILA<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5809,7 +5822,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5820,18 +5833,18 @@
               <div class="portfolio-info">
                 <h4>Himalayan Salt Fine</h4>
                 <p>Kosmetik</p>
-                <a href="../../static/img/rincian/zoom/himalayansaltfine.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Himalayan Salt Fine"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#himalayansaltfine"><i class="bi bi-cart4"></i></a>
+                <a href="../../static/img/rincian/zoom/himalayansaltfine.jpg " data-bs-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Himalayan Salt Fine"><i class="bi bi-zoom-in"></i></a>
+                <a href="" class="details-link" data-bstoggle="modal" data-bs-target="#himalayansaltfine"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
   <div class="modal fade" id="himalayansaltfine" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-xl modal-dialog-scrollable">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="reseller-title">Himalayan Salt Fine<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Himalayan Salt Fine<br/></h5>
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5896,7 +5909,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -5908,7 +5921,7 @@
                 <h4>BB Cream LemonieSkin</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/bbcream-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="BB Cream LemonieSkin"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#bbcream-lemonieskin"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#bbcream-lemonieskin"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -5918,7 +5931,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">BB Cream LemonieSkin<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -5949,7 +5962,7 @@
                     </div>
 
                     <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                      <video data-dashjs-player="true" controls="" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream5.mp4"></video>
+                      <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream5.mp4"></video>
                     </div>
     
                   </div>
@@ -5991,7 +6004,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>
@@ -6003,7 +6016,7 @@
                 <h4>Paket DRAJAPEL</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/drajapel.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket DRAJAPEL (D'Lemonie, Rajanie, dan Apel Silaxing)"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-toggle="modal" data-target="#drajapel"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#drajapel"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
@@ -6013,7 +6026,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="reseller-title">Paket DRAJAPEL (D'Lemonie, Rajanie, dan Apel Silaxing)<br/></h5>
-        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -6083,7 +6096,7 @@
             </section>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-dismiss="modal">Kembali</button>
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
           </div>
         </div>
       </div>

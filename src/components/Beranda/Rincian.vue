@@ -56,9 +56,7 @@
 </div>
 </div>
 
- <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a data-bs-toggle="modal" href="#bd-tiktok"><img src="../../static/img/clients/Tiktok-logo.png" class="img-fluid" alt=""></a>
-          </div>
+            <button data-bs-toggle="modal" href="#bd-tiktok"><img src="../../static/img/clients/Tiktok-logo.png" class="img-fluid" alt=""></button>
         </div>
       </div>
     </section><!-- End Cliens Section -->

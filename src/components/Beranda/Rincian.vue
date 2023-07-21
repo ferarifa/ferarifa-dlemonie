@@ -108,7 +108,7 @@
     <div class="container garis-panjang"></div>
     <br/><br/>
   
-    <div class="container-fluid" data-aos="fade-up">
+    <div class="container-fluid" data-aos="">
       <div class="row">
         <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
           <div class="content">

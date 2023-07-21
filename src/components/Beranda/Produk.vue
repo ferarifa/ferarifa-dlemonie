@@ -1,7 +1,7 @@
 <template>
       <!-- ======= Portfolio Section ======= -->
       <section id="produk" class="portfolio">
-        <div class="container" data-aos="fade-up">
+        <div class="container" data-aos="">
   
           <div class="section-title">
             <h2>Produk</h2>

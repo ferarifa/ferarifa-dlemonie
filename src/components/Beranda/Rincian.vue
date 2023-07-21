@@ -13,7 +13,7 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-      <button class="btn-get-manfaat" data-bs-toggle="modal" data-bs-target="#manfaatdlemonie">Cek Manfaatnya Disini</button>
+      <a href="" class="btn-get-manfaat" data-bs-toggle="modal" data-bs-target="#manfaatdlemonie">Cek Manfaatnya Disini</a>
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatdlemonie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">

@@ -5,7 +5,7 @@
         <h2>Rincian</h2>
       </div>
       <div class="row">
-        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
+      <div class="col-lg-6 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
           <div class="content">
             <h3 class="mb-3"><strong>D'Lemonie</strong></h3>
             <h4><strong>Manfaat :</strong></h4>
@@ -55,31 +55,6 @@
   </div>
 </div>
 </div>
-
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-  Launch static backdrop modal
-</button>
-
-<!-- Modal -->
-<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Understood</button>
-      </div>
-    </div>
-  </div>
-</div>
-                
           </div>
         </div>
         <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="dlemonie" src="../../static/img/rincian/dlemonie.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">

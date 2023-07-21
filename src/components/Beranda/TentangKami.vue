@@ -1,7 +1,7 @@
 <template>
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
-        <div class="container" data-aos="fade-up">
+        <div class="container" data-aos="">
           <div class="section-title">
             <h2>Tentang Kami</h2>
           </div>

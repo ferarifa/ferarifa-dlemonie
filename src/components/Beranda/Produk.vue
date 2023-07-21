@@ -32,11 +32,11 @@
                 <h4>D'Lemonie</h4>
                 <p>Minuman</p>
                 <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="D'Lemonie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dle-monie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
     <!-- Modal -->
-  <div class="modal fade" id="dlemonie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="dle-monie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -125,12 +125,12 @@
                 <h4>Rajanie</h4>
                 <p>Minuman</p>
                 <a href="../../static/img/rincian/zoom/produk-rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rajanie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#rajanie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#raja-nie"><i class="bi bi-cart4"></i></a>
                 </div>
             </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="rajanie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="raja-nie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl modal-dialog-scrollable">
       <div class="modal-content">
         <div class="modal-header">
@@ -1054,12 +1054,12 @@
                 <h4>Paket LemonieGlow Glowing</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-glowing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Glowing"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-glowing"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonie-glow-glowing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="lemonieglow-glowing" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="lemonie-glow-glowing" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -1149,12 +1149,12 @@
                 <h4>Paket LemonieGlow Flek</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-flek.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Flek"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-flek"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonie-glow-flek"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="lemonieglow-flek" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="lemonie-glow-flek" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -1243,12 +1243,12 @@
                 <h4>Paket LemonieGlow Acne</h4>
                 <p>Paketan</p>
                 <a href="../../static/img/rincian/zoom/lemonieglow-acne.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Acne"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-acne"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonie-glow-acne"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="lemonieglow-acne" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="lemonie-glow-acne" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -1963,12 +1963,12 @@
                 <h4>Rhannie</h4>
                 <p>Obat-obatan</p>
                 <a href="../../static/img/rincian/zoom/rhannie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rhannie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#rhannie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#rhan-nie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="rhannie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="rhan-nie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -2057,12 +2057,12 @@
                 <h4>Apel Silaxing</h4>
                 <p>Obat-obatan</p>
                 <a href="../../static/img/rincian/zoom/apelsilaxing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Apel Silaxing"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#apelsilaxing"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#apel-silaxing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="apelsilaxing" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="apel-silaxing" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -2151,12 +2151,12 @@
                 <h4>CL-emonie</h4>
                 <p>Obat-obatan</p>
                 <a href="../../static/img/rincian/zoom/cl-emonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="CL-emonie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cl-emonie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cl-emo-nie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="cl-emonie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="cl-emo-nie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -2447,12 +2447,12 @@
                 <h4>Cushion LemonieSkin</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/cushion-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cushion LemonieSkin"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cushion-lemonieskin"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cushion"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="cushion-lemonieskin" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="cushion" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -2540,12 +2540,12 @@
                 <h4>Chia Seed</h4>
                 <p>Minuman</p>
                 <a href="../../static/img/rincian/zoom/chiaseed.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Chia Seed"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#chiaseed"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#chia-seed"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="chiaseed" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="chia-seed" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -2623,12 +2623,12 @@
                 <h4>Jalamonie</h4>
                 <p>Minuman</p>
                 <a href="../../static/img/rincian/zoom/jalamonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Jalamonie"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#jalamonie"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#jala-monie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="jalamonie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="jala-monie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -4181,16 +4181,16 @@
                 <h4>Himalayan Salt Fine</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/himalayansaltfine.jpg " data-bs-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Himalayan Salt Fine"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bstoggle="modal" data-bs-target="#himalayansaltfine"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#himalayan-saltfine"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="himalayansaltfine" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalScrollable">Himalayan Salt Fine<br/></h5>
+  <div class="modal fade" id="himalayan-saltfine" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="reseller-title">Himalayan Salt Fine<br/></h5>
         <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -4268,12 +4268,12 @@
                 <h4>BB Cream LemonieSkin</h4>
                 <p>Kosmetik</p>
                 <a href="../../static/img/rincian/zoom/bbcream-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="BB Cream LemonieSkin"><i class="bi bi-zoom-in"></i></a>
-                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#bbcream-lemonieskin"><i class="bi bi-cart4"></i></a>
+                <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#bbcream-lemonie-skin"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
   
   <!-- Modal -->
-  <div class="modal fade" id="bbcream-lemonieskin" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="bbcream-lemonie-skin" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
@@ -4452,3 +4452,14 @@
 </div>
 </section><!-- End Portfolio Section -->
 </template>
+
+<script>
+export default {
+  methods: {
+    handleClick() {
+      const buttonElement = this.$refs.myButton;
+      console.log(buttonElement);
+    }
+  }
+}
+</script>

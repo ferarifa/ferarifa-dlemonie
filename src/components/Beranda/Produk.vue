@@ -25,7 +25,7 @@
             <li data-filter=".filter-kosmetik">Kosmetik</li>
           </ul>
   
-          <div class="row portfolio-container" data-aos="" data-aos-delay="200">
+          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
             <div class="col-lg-4 col-md-6 portfolio-item filter-minuman">
               <div class="portfolio-img"><img src="../../static/img/rincian/produk-dlemonie.png" class="img-fluid" alt=""></div>
               <div class="portfolio-info">

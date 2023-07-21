@@ -31,7 +31,7 @@
             <div class="portfolio-info">
               <h4>D'Lemonie</h4>
               <p>Minuman</p>
-              <a href="/zoom/produk-dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="D'Lemonie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/produk-dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="D'Lemonie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dle-monie"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -124,7 +124,7 @@
             <div class="portfolio-info">
               <h4>Rajanie</h4>
               <p>Minuman</p>
-              <a href="/src/static/img/rincian/zoom/produk-rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rajanie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/produk-rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rajanie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#raja-nie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
@@ -211,7 +211,7 @@
             <div class="portfolio-info">
               <h4>3 Botol D'Lemonie</h4>
               <p>Promo Seller</p>
-              <a href="/src/static/img/rincian/zoom/dlemonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'Lemonie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/dlemonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'Lemonie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#tigabotoldlemonie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
@@ -298,7 +298,7 @@
             <div class="portfolio-info">
               <h4>3 Botol Rajanie</h4>
               <p>Promo Seller</p>
-              <a href="/src/static/img/rincian/zoom/rajanie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol Rajanie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/rajanie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol Rajanie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#tigabotolrajanie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
@@ -382,7 +382,7 @@
             <div class="portfolio-info">
               <h4>2 D'LEMONIE + 1 RAJANIE</h4>
               <p>Promo Seller</p>
-              <a href="/src/static/img/rincian/zoom/2dlemonie-1rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol D'LEMONIE + 1 Botol RAJANIE"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/2dlemonie-1rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol D'LEMONIE + 1 Botol RAJANIE"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie-rajanie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
@@ -469,7 +469,7 @@
             <div class="portfolio-info">
               <h4>2 RAJANIE + 1 D'LEMONIE</h4>
               <p>Promo Seller</p>
-              <a href="/src/static/img/rincian/zoom/2rajanie-1dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol RAJANIE + 1 Botol D'LEMONIE"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/2rajanie-1dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol RAJANIE + 1 Botol D'LEMONIE"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#rajanie-dlemonie"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
@@ -556,7 +556,7 @@
             <div class="portfolio-info">
               <h4>3 D'LEMONIE + <br> 1 APEL SILAXING</h4>
               <p>Promo Seller</p>
-              <a href="/src/static/img/rincian/zoom/3dlemonie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'LEMONIE + 1 APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/3dlemonie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'LEMONIE + 1 APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie-apelsilaxing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
@@ -645,7 +645,7 @@
             <div class="portfolio-info">
               <h4>2 D'LEMONIE + 1 RAJANIE <br>1 APEl SILAXING</h4>
               <p>Promo Seller</p>
-              <a href="/src/static/img/rincian/zoom/2dlemonie-1rajanie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol D'LEMONIE + 1 Botol RAJANIE + 1 Botol APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/2dlemonie-1rajanie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="2 Botol D'LEMONIE + 1 Botol RAJANIE + 1 Botol APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie-rajanie-apelsilaxing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>
@@ -736,7 +736,7 @@
             <div class="portfolio-info">
               <h4>Paket LemonieSkin Acne</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-acne.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Acne"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-acne.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Acne"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskinacne"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -842,7 +842,7 @@
             <div class="portfolio-info">
               <h4>Paket LemonieSkin Flek</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/flek.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Flek"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/flek.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Flek"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskinflek"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -949,7 +949,7 @@
             <div class="portfolio-info">
               <h4>Paket LemonieSkin Glowing</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-glowing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Glowing"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-glowing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieSkin Glowing"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskinglowing"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1053,7 +1053,7 @@
             <div class="portfolio-info">
               <h4>Paket LemonieGlow Glowing</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-glowing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Glowing"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-glowing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Glowing"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonie-glow-glowing"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1148,7 +1148,7 @@
             <div class="portfolio-info">
               <h4>Paket LemonieGlow Flek</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-flek.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Flek"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-flek.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Flek"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonie-glow-flek"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1242,7 +1242,7 @@
             <div class="portfolio-info">
               <h4>Paket LemonieGlow Acne</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-acne.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Acne"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-acne.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket LemonieGlow Acne"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonie-glow-acne"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1337,7 +1337,7 @@
             <div class="portfolio-info">
               <h4>LemonieGlow Facial wash</h4>
               <p>kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-facialwash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Facial wash"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-facialwash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Facial wash"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-facialwash"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1426,7 +1426,7 @@
             <div class="portfolio-info">
               <h4>LemonieGlow Toner</h4>
               <p>kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-toner.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Toner"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-toner.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Toner"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-toner"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1516,7 +1516,7 @@
             <div class="portfolio-info">
               <h4>LemonieGlow Serum WHD</h4>
               <p>kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-serum-withhoneydew.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Serum With Honey Dew"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-serum-withhoneydew.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Serum With Honey Dew"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-serum-withhoneydew"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1609,7 +1609,7 @@
             <div class="portfolio-info">
               <h4>LemonieGlow Day Cream</h4>
               <p>kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-daycream.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Day Cream"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-daycream.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Day Cream"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-daycream"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1694,7 +1694,7 @@
             <div class="portfolio-info">
               <h4>LemonieGlow Night Cream Acne</h4>
               <p>kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-nightcreamacne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Acne"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-nightcreamacne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Acne"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-nightcreamacne"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1787,7 +1787,7 @@
             <div class="portfolio-info">
               <h4>LemonieGlow Night Cream Flex</h4>
               <p>kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-nightcreamflex.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Flex"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-nightcreamflex.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Flex"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-nightcreamflex"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1877,7 +1877,7 @@
             <div class="portfolio-info">
               <h4>LemonieGlow NC Glowing</h4>
               <p>kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieglow-nightcreamglowing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Glowing"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieglow-nightcreamglowing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieGlow Night Cream Glowing"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieglow-nightcreamglowing"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -1962,7 +1962,7 @@
             <div class="portfolio-info">
               <h4>Rhannie</h4>
               <p>Obat-obatan</p>
-              <a href="/src/static/img/rincian/zoom/rhannie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rhannie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/rhannie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rhannie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#rhan-nie"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2056,7 +2056,7 @@
             <div class="portfolio-info">
               <h4>Apel Silaxing</h4>
               <p>Obat-obatan</p>
-              <a href="/src/static/img/rincian/zoom/apelsilaxing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Apel Silaxing"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/apelsilaxing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Apel Silaxing"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#apel-silaxing"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2150,7 +2150,7 @@
             <div class="portfolio-info">
               <h4>CL-emonie</h4>
               <p>Obat-obatan</p>
-              <a href="/src/static/img/rincian/zoom/cl-emonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="CL-emonie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/cl-emonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="CL-emonie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cl-emo-nie"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2262,7 +2262,7 @@
             <div class="portfolio-info">
               <h4>Body Serum LemonieSkin</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/bodyserum-lemonieskin.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Body Serum LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/bodyserum-lemonieskin.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Body Serum LemonieSkin"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#Bodyserumlemonie"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2349,7 +2349,7 @@
             <div class="portfolio-info">
               <h4>Paket DRAJA</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/draja.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket DRAJA (D'Lemonie dan Rajanie)"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/draja.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket DRAJA (D'Lemonie dan Rajanie)"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#draja"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2446,7 +2446,7 @@
             <div class="portfolio-info">
               <h4>Cushion LemonieSkin</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/cushion-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cushion LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/cushion-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cushion LemonieSkin"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cushion"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2539,7 +2539,7 @@
             <div class="portfolio-info">
               <h4>Chia Seed</h4>
               <p>Minuman</p>
-              <a href="/src/static/img/rincian/zoom/chiaseed.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Chia Seed"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/chiaseed.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Chia Seed"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#chia-seed"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2622,7 +2622,7 @@
             <div class="portfolio-info">
               <h4>Jalamonie</h4>
               <p>Minuman</p>
-              <a href="/src/static/img/rincian/zoom/jalamonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Jalamonie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/jalamonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Jalamonie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#jala-monie"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2717,7 +2717,7 @@
             <div class="portfolio-info">
               <h4>Paket Adel</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/adel.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket Adel"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/adel.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket Adel"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#adel"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2814,7 +2814,7 @@
             <div class="portfolio-info">
               <h4>LemonieSkin Day Cream</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-daycream.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Day Cream"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-daycream.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Day Cream"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-daycream"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -2912,7 +2912,7 @@
             <div class="portfolio-info">
               <h4>LemonieSkin Facial Wash</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-facialwash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Facial Wash"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-facialwash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Facial Wash"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-facialwash"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3016,7 +3016,7 @@
             <div class="portfolio-info">
               <h4>LemonieSkin Serum G&W</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-serum-glow&white.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Serum GLOW & WHITE"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-serum-glow&white.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Serum GLOW & WHITE"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-serum-glowandwhite"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3105,7 +3105,7 @@
             <div class="portfolio-info">
               <h4>LemonieSkin Toner</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-toner.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Toner"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-toner.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Toner"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-toner"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3187,7 +3187,7 @@
             <div class="portfolio-info">
               <h4>LemonieSkin NC Glowing</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-nightcreamglowing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Glowing"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-nightcreamglowing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Glowing"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-nightcreamglowing"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3274,7 +3274,7 @@
             <div class="portfolio-info">
               <h4>LemonieSkin Night Cream Flex</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-nightcreamflex.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Flex"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-nightcreamflex.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Flex"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-nightcreamflex"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3361,7 +3361,7 @@
             <div class="portfolio-info">
               <h4>LemonieSkin Night Cream Acne</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-nightcreamacne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Acne"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-nightcreamacne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LemonieSkin Night Cream Acne"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lemonieskin-nightcreamacne"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3446,7 +3446,7 @@
             <div class="portfolio-info">
               <h4>1 Dus D'Lemonie</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/1dusdlemonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="1 Dus D'Lemonie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/1dusdlemonie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="1 Dus D'Lemonie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#satukardusdlemonie"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3540,7 +3540,7 @@
             <div class="portfolio-info">
               <h4>1 Dus Rajanie</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/1dusrajanie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="1 Dus Rajanie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/1dusrajanie.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="1 Dus Rajanie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#satukardusrajanie"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3628,7 +3628,7 @@
             <div class="portfolio-info">
               <h4>Peeling Spray LemonieSkin</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/peelingspray-bylemonieskin.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Peeling Spray LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/peelingspray-bylemonieskin.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Peeling Spray LemonieSkin"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#peelingspray-lemonieskin"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3714,7 +3714,7 @@
             <div class="portfolio-info">
               <h4>Serum Luxury LemonieSkin</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lemonieskin-byserumluxury.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Serum Luxury LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lemonieskin-byserumluxury.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Serum Luxury LemonieSkin"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#serumluxury-lemonieskin"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3803,7 +3803,7 @@
             <div class="portfolio-info">
               <h4>Peeling Spray & Serum Luxury</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/peelingspray-serumluxury-bylemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket Peeling Spray & Serum Luxury by LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/peelingspray-serumluxury-bylemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket Peeling Spray & Serum Luxury by LemonieSkin"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#peelingspray-serumluxury-bylemonieskin"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -3892,7 +3892,7 @@
             <div class="portfolio-info">
               <h4>Blender Mini Portable</h4>
               <p>Peralatan</p>
-              <a href="/src/static/img/rincian/zoom/blender.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Blender Mini Portable USB Charger"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/blender.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Blender Mini Portable USB Charger"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#blender"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -4002,7 +4002,7 @@
             <div class="portfolio-info">
               <h4>Gelas Saringan Cantik</h4>
               <p>Peralatan</p>
-              <a href="/src/static/img/rincian/zoom/gelassaringancantik.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Gelas Saringan Cantik"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/gelassaringancantik.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Gelas Saringan Cantik"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#gelassaringancantik"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -4091,7 +4091,7 @@
             <div class="portfolio-info">
               <h4>Lipcream Matte LAMEILA</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/lipcream-matte.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lipcream Matte LAMELIA"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/lipcream-matte.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lipcream Matte LAMELIA"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#lipcream-matte"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -4180,7 +4180,7 @@
             <div class="portfolio-info">
               <h4>Himalayan Salt Fine</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/himalayansaltfine.jpg " data-bs-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Himalayan Salt Fine"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/himalayansaltfine.jpg " data-bs-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Himalayan Salt Fine"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#himalayan-saltfine"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -4267,7 +4267,7 @@
             <div class="portfolio-info">
               <h4>BB Cream LemonieSkin</h4>
               <p>Kosmetik</p>
-              <a href="/src/static/img/rincian/zoom/bbcream-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="BB Cream LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/bbcream-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="BB Cream LemonieSkin"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#bbcream-lemonie-skin"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
@@ -4362,7 +4362,7 @@
             <div class="portfolio-info">
               <h4>Paket DRAJAPEL</h4>
               <p>Paketan</p>
-              <a href="/src/static/img/rincian/zoom/drajapel.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket DRAJAPEL (D'Lemonie, Rajanie, dan Apel Silaxing)"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/drajapel.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Paket DRAJAPEL (D'Lemonie, Rajanie, dan Apel Silaxing)"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#drajapel"><i class="bi bi-cart4"></i></a>
             </div>
         </div>

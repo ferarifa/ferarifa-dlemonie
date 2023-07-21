@@ -1541,7 +1541,6 @@
         <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="himalayansaltfine" src="../../static/img/rincian/himalayansaltfine.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
       </div>
     </div>
-  </section>
 
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
@@ -1566,5 +1565,6 @@
     </div>
   </div>
 </div>
-      
+            
+  </section>
 </template>

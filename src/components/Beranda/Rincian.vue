@@ -1,4 +1,5 @@
 <template>
+<main id="main">
       <section id="rincian" class="why-us section-bg about">
     <div class="container-fluid" data-aos="fade-up">
       <div class="section-title">
@@ -1543,4 +1544,5 @@
       </div>
     </div>
   </section>
+</main>
 </template>

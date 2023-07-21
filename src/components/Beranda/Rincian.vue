@@ -1,6 +1,6 @@
 <template>
       <section id="rincian" class="why-us section-bg about">
-    <div class="container-fluid" data-aos="fade-up">
+    <div class="" data-aos="fade-up">
       <div class="section-title">
         <h2>Rincian</h2>
       </div>
@@ -11,7 +11,7 @@
             <h4><strong>Manfaat :</strong></h4>
             <p>Selalu siap dengan Sari Lemon D'Lemonie, pilihan sempurna bagi mereka yang ingin hidup sehat, bebas kolesterol, dan menjaga tekanan darah. Sari Lemon D'Lemonie adalah dukungan terbaik untuk diet harian Anda.</p>
           </div>
-          <div class="" id="btn">
+          <div class="content" id="btn">
             <!-- Button trigger modal -->
       <a href="" class="btn-get-manfaat" data-bs-toggle="modal" data-bs-target="#manfaatdlemonie">Cek Manfaatnya Disini</a>
 

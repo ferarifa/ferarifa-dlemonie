@@ -55,41 +55,6 @@
   </div>
 </div>
 </div>
-
-            <button data-bs-toggle="modal" href="#bd-tiktok"><img src="../../static/img/clients/Tiktok-logo.png" class="img-fluid" alt=""></button>
-        </div>
-      </div>
-    </section><!-- End Cliens Section -->
-
-     <!-- Modal -->
-     <div class="modal fade" id="bd-tiktok" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Pilih Opsi Akun Tiktok</h5>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@olshopskincaretasik?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Skincare dan Kosmetik</strong>
-                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
-                  </a></div>
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@ferarifa?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Produk Kesehatan</strong>
-                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
-                  </a></div>
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@lemonferashop?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Pelangsing dan Tips Lainnya</strong>
-                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24" style="float: right;">
-                  </a></div>
-                </div>
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
-                </div>
-              </div>
-            </div>
-          </div>
-                
                 
           </div>
         </div>

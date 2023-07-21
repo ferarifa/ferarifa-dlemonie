@@ -1,6 +1,6 @@
 <template>
       <section id="rincian" class="why-us section-bg about">
-    <div class="" data-aos="fade-up">
+    <div class="container-fluid" data-aos="">
       <div class="section-title">
         <h2>Rincian</h2>
       </div>

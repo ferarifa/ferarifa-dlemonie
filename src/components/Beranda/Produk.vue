@@ -31,7 +31,7 @@
             <div class="portfolio-info">
               <h4>D'Lemonie</h4>
               <p>Minuman</p>
-              <a href="https://ferarifadlemonie.vercel.app/src/static/img/rincian/zoom/produk-dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="D'Lemonie"><i class="bi bi-zoom-in"></i></a>
+              <a href="/zoom/produk-dlemonie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="D'Lemonie"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dle-monie"><i class="bi bi-cart4"></i></a>
             </div>
         </div>

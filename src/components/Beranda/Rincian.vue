@@ -1,5 +1,5 @@
 <template>
-      <section id="rincian" class="why-us section-bg about">
+      <section id="rincian" class="why-us about">
     <div class="container-fluid" data-aos="fade-up">
       <div class="section-title">
         <h2>Rincian</h2>

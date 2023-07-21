@@ -15,17 +15,17 @@
             <!-- Button trigger modal -->
       <a href="" class="btn-get-manfaat" data-bs-toggle="modal" data-bs-target="#manfaatdlemonie">Cek Manfaatnya Disini</a>
 
-<!-- Modal -->
-<div class="modal fade" id="manfaatdlemonie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title">Manfaat D'Lemonie</h5>
-      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-      </button>
-    </div>      
-    <div class="container modal-body">
+      <!-- Modal -->
+      <div class="modal fade " id="manfaatdlemonie" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalScrollable">Manfaat D'Lemonie</h5>
+            <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
             <ul>
         <li><i class="bi-check-square-fill"></i> Menjaga daya tahan tubuh</li>
         <li><i class="bi-check-square-fill"></i> Detoksifikasi toxin dalam tubuh</li>
@@ -55,7 +55,6 @@
   </div>
 </div>
 </div>
-                
           </div>
         </div>
         <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="dlemonie" src="../../static/img/rincian/dlemonie.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">

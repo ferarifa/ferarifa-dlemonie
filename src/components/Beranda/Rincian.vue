@@ -5,13 +5,13 @@
         <h2>Rincian</h2>
       </div>
       <div class="row">
-      <div>
+        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
           <div class="content">
             <h3 class="mb-3"><strong>D'Lemonie</strong></h3>
             <h4><strong>Manfaat :</strong></h4>
             <p>Selalu siap dengan Sari Lemon D'Lemonie, pilihan sempurna bagi mereka yang ingin hidup sehat, bebas kolesterol, dan menjaga tekanan darah. Sari Lemon D'Lemonie adalah dukungan terbaik untuk diet harian Anda.</p>
           </div>
-          <div class="content" id="btn">
+          <div class="" id="btn">
             <!-- Button trigger modal -->
       <a href="" class="btn-get-manfaat" data-bs-toggle="modal" data-bs-target="#manfaatdlemonie">Cek Manfaatnya Disini</a>
 

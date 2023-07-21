@@ -1,11 +1,11 @@
 <template>
-      <section id="rincian" class="section-bg about">
+      <section id="rincian" class="why-us section-bg about">
     <div class="container-fluid" data-aos="fade-up">
       <div class="section-title">
         <h2>Rincian</h2>
       </div>
       <div class="row">
-      <div class="col-lg-6 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
+      <div>
           <div class="content">
             <h3 class="mb-3"><strong>D'Lemonie</strong></h3>
             <h4><strong>Manfaat :</strong></h4>

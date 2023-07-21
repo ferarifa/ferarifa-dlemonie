@@ -57,7 +57,7 @@
 </div>
         </div>
       </div>
-      <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="dlemonie" src="../../static/img/rincian/dlemonie.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
+      <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="rajanie" src="../../static/img/rincian/rajanie.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
   </div>
 </div> 
 <br/><br/>

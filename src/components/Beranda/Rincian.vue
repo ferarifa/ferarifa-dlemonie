@@ -1,42 +1,4 @@
 <template>
-
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a data-bs-toggle="modal" href="#bd-tiktok"><img src="../../static/img/clients/Tiktok-logo.png" class="img-fluid" alt=""></a>
-          </div>
-        </div>
-      </div>
-    </section><!-- End Cliens Section -->
-
-     <!-- Modal -->
-     <div class="modal fade" id="bd-tiktok" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Pilih Opsi Akun Tiktok</h5>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@olshopskincaretasik?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Skincare dan Kosmetik</strong>
-                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
-                  </a></div>
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@ferarifa?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Produk Kesehatan</strong>
-                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
-                  </a></div>
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@lemonferashop?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Pelangsing dan Tips Lainnya</strong>
-                    <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24" style="float: right;">
-                  </a></div>
-                </div>
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
-                </div>
-              </div>
-            </div>
-          </div>
-      
       <section id="rincian" class="why-us section-bg about">
     <div class="container-fluid" data-aos="fade-up">
       <div class="section-title">
@@ -51,11 +13,11 @@
           </div>
           <div class="content" id="btn">
             <!-- Button trigger modal -->
-      <a href="" class="btn-get-manfaat" data-bs-toggle="modal" data-bs-target="#manfaatdlemonie">Cek Manfaatnya Disini</a>
+      <a href="" class="btn-get-manfaat" data-bs-toggle="modal" data-bs-target="#manfaat-Dlemonie">Cek Manfaatnya Disini</a>
 
       <!-- Modal -->
-      <div class="modal fade " id="manfaatdlemonie" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-scrollable" role="document">
+<div class="modal fade" id="manfaat-Dlemonie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable">
           <div class="modal-content">
             <div class="modal-header">
             <h5 class="modal-title" id="exampleModalScrollable">Manfaat D'Lemonie</h5>

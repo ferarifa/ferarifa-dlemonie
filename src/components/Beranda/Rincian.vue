@@ -273,7 +273,7 @@
 </div>
         </div>
       </div>
-<div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieskin" style='background-image: url("/img/rincian/lemonieskin.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+    <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieskin" style='background-image: url("/img/rincian/lemonieskin.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
   </div>
 </div>
 <br/><br/>
@@ -455,11 +455,7 @@
 </div>
         </div>
       </div>
-      <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img d-block w-100"    data-aos="zoom-in" data-aos-delay="150" align="center">
-        <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieglow-glowing" src="../../static/img/rincian/lemonieglow-glowing.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
-        <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieglow-acne" src="../../static/img/rincian/lemonieglow-acne.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
-        <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieglow-flek" src="../../static/img/rincian/lemonieglow-flek.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
-        &nbsp;</div>        
+      <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieglow" style='background-image: url("/img/rincian/lemonieglow.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>        
     </div>
   </div><br/><br/>
   

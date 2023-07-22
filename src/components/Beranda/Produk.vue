@@ -1370,9 +1370,10 @@
                     <img src="../../static/img/produk/lemonieglow-facialwash/lemonieglow-facialwash2.jpg" alt="">
                   </div>
   
-                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-facialwash/lemonieglow-facialwash3.mp4"></video>
-                  </div>
+                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieglow-facialwash/lemonieglow-facialwash3.mp4">
+                </video>
+              </div>
   
                 </div>
                 <div class="swiper-pagination"></div>
@@ -1460,8 +1461,9 @@
                   </div>
   
                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-toner/lemonieglow-toner3.mp4"></video>
-                  </div>
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieglow-toner/lemonieglow-toner3.mp4">
+                </video>
+              </div>
   
                 </div>
                 <div class="swiper-pagination"></div>
@@ -1549,13 +1551,15 @@
                     <img src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew2.jpg" alt="">
                   </div>
   
-                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew3.mp4"></video>
-                  </div>
+                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew3.mp4">
+                </video>
+              </div>
 
-                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew4.mp4"></video>
-                  </div>
+                 <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieglow-serum-withhoneydew/lemonieglow-serum-withhoneydew4.mp4">
+                </video>
+              </div>
   
                 </div>
                 <div class="swiper-pagination"></div>
@@ -1732,8 +1736,9 @@
                   </div>
 
                    <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieglow-nightcreamacne/lemonieglow-nightcreamacne4.mp4"></video>
-                  </div>
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieglow-nightcreamacne/lemonieglow-nightcreamacne4.mp4">
+                </video>
+              </div>
   
                 </div>
                 <div class="swiper-pagination"></div>
@@ -2471,9 +2476,10 @@
               <div class="portfolio-details-slider swiper">
                 <div class="swiper-wrapper align-items-center" style="width: 120px; height: 392px; background-size: cover;">
   
-                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/cushion-lemonieskin/cushion-lemonieskin1.mp4"></video>
-                  </div>
+                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/cushion-lemonieskin/cushion-lemonieskin1.mp4">
+                </video>
+              </div>
   
                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
                     <img src="../../static/img/produk/cushion-lemonieskin/cushion-lemonieskin2.jpg" alt="">
@@ -2847,9 +2853,10 @@
                     <img src="../../static/img/produk/lemonieskin-daycream/lemonieskin-daycream2.jpg" alt="">
                   </div>
             
-                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-daycream/lemonieskin-daycream3.mp4"></video>
-                  </div>
+                 <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieskin-daycream/lemonieskin-daycream3.mp4">
+                </video>
+              </div>
                   
                 </div>
                 <div class="swiper-pagination"></div>
@@ -3042,8 +3049,9 @@
                 <div class="swiper-wrapper align-items-center">
   
                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-serum-glow&white/lemonieskin-serum-glow&white1.mp4"></video>
-                  </div>
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieskin-serum-glow&white/lemonieskin-serum-glow&white1.mp4">
+                </video>
+              </div>
   
                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
                     <img src="../../static/img/produk/lemonieskin-serum-glow&white/lemonieskin-serum-glow&white2.jpg" alt="">
@@ -3922,8 +3930,10 @@
                   </div>
   
                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/blender/blender2.mp4"></video>
-                  </div>
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/blender/blender2.mp4">
+                </video>
+              </div>
+                    
                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
                     <img src="../../static/img/produk/blender/blender3.jpg" alt="">
                   </div>
@@ -4309,8 +4319,9 @@
                   </div>
 
                   <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                    <video data-dashjs-player="true"  class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline"  src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream5.mp4"></video>
-                  </div>
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream5.mp4">
+                </video>
+              </div>
   
                 </div>
                 <div class="swiper-pagination"></div>

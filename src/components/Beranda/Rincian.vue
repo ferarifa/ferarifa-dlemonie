@@ -273,9 +273,10 @@
 </div>
         </div>
       </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("/img/rincian/lemonieskin.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
-      </div>
-  </div><br/><br/>
+<div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieskin" style='background-image: url("/img/rincian/lemonieskin.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+  </div>
+</div>
+<br/><br/>
   
         <div class="container">
       <h3><strong>Testimoni Skincare Acne</strong></h3>

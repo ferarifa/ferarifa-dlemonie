@@ -19,7 +19,7 @@ const corsOptions = {
 };
 app.use(cors(corsOptions));
 
-app.post('/send-email', (req, res) => {
+app.post('/api/send-email', (req, res) => {
   const name = req.body.name;
   const email = req.body.email;
   const subject = req.body.subject;

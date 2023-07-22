@@ -20,7 +20,8 @@
     }
   ],
   "env": {
-    "SUPABASE_URL": "https://brzuijcchftuhjriylqf.supabase.co",
-    "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJyenVpamNjaGZ0dWhqcml5bHFmIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjIyNTY4MDMsImV4cCI6MTk3NzgzMjgwM30.0JpDOQAEXyYf53YtDgcGRnQmOkqVAZTd-IG_LPg1blo"
+    "EMAIL_USER": "ferarifa87@gmail.com",
+    "EMAIL_PASS": "hvgoeblsfrzirfzb",
+    "EMAIL_RECEIVER": "ferarifa87@gmail.com"
   }
 }

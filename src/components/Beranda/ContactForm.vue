@@ -38,45 +38,94 @@
         </div>
 
         <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-          <form @submit.prevent="sendEmail" role="form" class="php-email-form">
+          <form @submit="sendEmail" role="form" class="php-email-form">
             <div class="row">
               <div class="form-group col-md-6">
                 <label for="name-input">Nama Lengkap</label>
-                <input type="text" v-model="name" class="form-control" id="name-input" required>
+                <input type="text" v-model="name" class="form-control" id="name" autocomplete="name" required>
               </div>
               <div class="form-group col-md-6">
                 <label for="email-input">E-mail</label>
-                <input type="email" v-model="email" class="form-control" name="email" id="email-input" required>
+                <input type="email" v-model="email" class="form-control" name="email" id="email" autocomplete="email" required>
               </div>
             </div>
             <div class="form-group">
               <label for="subject-input">Subjek</label>
-              <input type="text" v-model="subject" class="form-control" name="subject" id="subject-input" required>
+              <input type="text" v-model="subject" class="form-control" name="subject" id="subject" autocomplete="subject" required>
             </div>
             <div class="form-group">
               <label for="message-input">Pesan</label>
-              <textarea v-model="message" class="form-control" name="message" id="message-input" rows="10" required></textarea>
+              <textarea v-model="message" class="form-control" name="message" id="message" rows="10" autocomplete="message" required></textarea>
             </div>
             <div class="my-3">
-              <div class="loading"></div>
-              <div v-if="successMessage" class="alert alert-success fade show" role="alert">
+              <div v-if="isLoading" class="loading-overlay">
+                <div class="loader"></div>
+              </div>
+              <div v-if="successMessage && !isLoading" class="alert alert-success fade show" role="alert">
                 {{ successMessage }}
                 <button type="button" class="close" data-dismiss="alert" aria-label="Close" @click="closeAlert">
                   <span aria-hidden="true">&times;</span>
                 </button>
               </div>
-              <div v-if="errorMessage" class="alert alert-danger fade show" role="alert">
+              <div v-if="errorMessage && !isLoading" class="alert alert-danger fade show" role="alert">
                 {{ errorMessage }}
                 <button type="button" class="close" data-dismiss="alert" aria-label="Close" @click="closeAlert">
                   <span aria-hidden="true">&times;</span>
                 </button>
               </div>
             </div>
-            <div class="text-center"><button type="submit" id="submit-btn">Kirim Pesan</button></div>
+            <div v-if="!isLoading && !successMessage && !errorMessage" class="text-center">
+              <button type="submit" id="submit-btn">Kirim Pesan</button>
+            </div>
           </form>
-
         </div>
       </div>
     </div>
   </section>
 </template>
+
+
+<script setup>
+import axios from 'axios';
+import { ref } from 'vue';
+
+const name = ref('');
+const email = ref('');
+const subject = ref('');
+const message = ref('');
+const successMessage = ref('');
+const errorMessage = ref('');
+const isLoading = ref(false);
+
+function sendEmail(event) {
+  event.preventDefault();
+  isLoading.value = true;
+
+  const formData = {
+    name: name.value,
+    email: email.value,
+    subject: subject.value,
+    message: message.value,
+  };
+
+  axios.post('https://ferarifadlemonie.vercel.app/send-email', formData) 
+    .then(response => {
+      console.log(response.data);
+      successMessage.value = 'Pesan Email Anda telah terkirim, Terima Kasih.';
+      isLoading.value = false;
+      setTimeout(() => {
+        successMessage.value = '';
+      }, 5000);
+    })
+    .catch(error => {
+      console.error(error);
+      errorMessage.value = 'Terjadi kesalahan saat mengirim email.';
+      isLoading.value = false;
+    });
+}
+
+function closeAlert() {
+  successMessage.value = '';
+  errorMessage.value = '';
+}
+</script>

@@ -64,13 +64,11 @@
               <div v-if="successMessage && !isLoading" class="alert alert-success fade show" role="alert">
                 {{ successMessage }}
                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" @click="closeAlert">
-                  <span aria-hidden="true">&times;</span>
                 </button>
               </div>
               <div v-if="errorMessage && !isLoading" class="alert alert-danger fade show" role="alert">
                 {{ errorMessage }}
               <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" @click="closeAlert">
-                  <span aria-hidden="true">&times;</span>
                 </button>
               </div>
             </div>

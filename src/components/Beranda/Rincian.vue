@@ -273,11 +273,7 @@
 </div>
         </div>
       </div>
-      <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img d-block w-100"  data-aos="zoom-in" data-aos-delay="150" align="center">
-        <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieskin-glowing" src="../../static/img/rincian/lemonieskin-glowing.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
-        <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieskin-acne" src="../../static/img/rincian/lemonieskin-acne.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
-        <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="lemonieskin-flek" src="../../static/img/rincian/lemonieskin-flek.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
-        &nbsp;</div>         
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("/img/rincian/lemonieskin.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
   </div><br/><br/>
   

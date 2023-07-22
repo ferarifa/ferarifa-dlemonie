@@ -934,7 +934,7 @@
 </div>
         </div>
       </div>
-      <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="bodyserum-lemonieskin" src="../../static/img/rincian/bodyserum-lemonieskin.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
+    <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="bodyserum-lemonieskin" style='background-image: url("/img/rincian/bodyserum-lemonieskin.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
     </div>
   </div><br/><br/>
   

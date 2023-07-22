@@ -108,7 +108,9 @@ function sendEmail(event) {
     message: message.value,
   };
 
-  axios.post('https://ferarifadlemonie.vercel.app/send-email', formData) 
+  const apiUrl = 'https://ferarifadlemonie.vercel.app/api/send-email';
+ 
+  axios.post(apiUrl, formData) 
     .then(response => {
       console.log(response.data);
       successMessage.value = 'Pesan Email Anda telah terkirim, Terima Kasih.';
@@ -122,6 +124,9 @@ function sendEmail(event) {
       errorMessage.value = 'Terjadi kesalahan saat mengirim email.';
       isLoading.value = false;
     });
+    setTimeout(() => {
+        successMessage.value = '';
+      }, 5000);
 }
 
 function closeAlert() {

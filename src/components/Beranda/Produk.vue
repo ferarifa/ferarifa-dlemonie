@@ -556,7 +556,7 @@
             <div class="portfolio-info">
               <h4>3 D'LEMONIE + <br> 1 APEL SILAXING</h4>
               <p>Promo Seller</p>
-              <a href="/img/preview/3dlemonie-1apelsilaxing.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'LEMONIE + 1 APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
+              <a href="/img/preview/3dlemonie-1apelsilaxing.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="3 Botol D'LEMONIE + 1 APEL SILAXING"><i class="bi bi-zoom-in"></i></a>
               <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dlemonie-apelsilaxing"><i class="bi bi-cart4"></i></a>
               </div>
           </div>

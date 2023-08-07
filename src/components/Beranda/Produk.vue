@@ -4351,10 +4351,13 @@
               <div class="row">
                   <div class="portfolio-description">
                   <h2>Deskripsi Produk</h2>
-                    <p> Garam himalaya berasal dari salah satu tambang garam tertua di dunia, yaitu tambang garam Khewra yang berada di kaki pegunungan Himalaya, Pakistan. Garam yang dihasilkan oleh tambang tersebut memiliki warna putih kemerahan. Inilah yang membuat garam himalaya tampak berwarna merah muda.</p>
-                    <p>Tidak seperti garam dapur yang biasa Anda pakai untuk memasak, garam Himalaya tidak melalui pemrosesan sehingga tidak ada zat tambahan di dalamnya. Hal ini membuat garam Himalaya memiliki kandungan mineral alami yang murni.</p>
-                    <p>Selain sebagai bahan pengawet alami, garam juga memiliki banyak manfaat yang lainnya. Adapun beberapa manfaat garam bagi tubuh adalah membantu sistem pencernaan. Garam dipercaya dapat membantu sistem pencernaan karena garam bisa merangsang enzim pencernaan klorida dan protein yang membantu pencernaan.</p>
-                    <br>
+                    <b>BB CREAM LEMONIESKIN</b>
+                    <p>Secinta itu sama BB cream kesayanganku ini,</p>
+                    <p>Mau Panas aktif diluar seharian , gak bakal gosong..</p>
+                    <p>Karena kandungan SPF 50 nya yang melindungi kulitku dari sinar matahari..</p>
+                    <p>Terus teksturnya itu loh, namanya juga #BBCREAM yah...</p>
+                    <p>Selain merawat kulit, melindungi kulit kita dari polusi, BB cream ini juga berdaya cover tinggi, menyamarkan pori pori .</p>
+                    <p>Kalau apply make up aku tuh harus pakai BB cream ini dulu, lebih ringan daripada Fondation yang bikin wajah kelihatan berat dan nggak natural...</p>
                      <p>Gunakan hashtag #dlemonie #lemonieskincare #lemonieglow #lemonieski #apelsilaxing #rhanie #collagen #rajanieramuanjaheherbal #sarimurnilemon #minumanherbal #Bodyserumlemonie #lemonie untuk berbagi pengalaman Anda dengan D'lemonie dan bergabunglah dengan komunitas kami.</p>
                   </div>
                 </div>

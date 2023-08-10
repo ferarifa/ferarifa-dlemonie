@@ -4351,13 +4351,9 @@
               <div class="row">
                   <div class="portfolio-description">
                   <h2>Deskripsi Produk</h2>
-                    <b>BB CREAM LEMONIESKIN</b>
-                    <p>Secinta itu sama BB cream kesayanganku ini,</p>
-                    <p>Mau Panas aktif diluar seharian , gak bakal gosong..</p>
-                    <p>Karena kandungan SPF 50 nya yang melindungi kulitku dari sinar matahari..</p>
-                    <p>Terus teksturnya itu loh, namanya juga #BBCREAM yah...</p>
-                    <p>Selain merawat kulit, melindungi kulit kita dari polusi, BB cream ini juga berdaya cover tinggi, menyamarkan pori pori .</p>
-                    <p>Kalau apply make up aku tuh harus pakai BB cream ini dulu, lebih ringan daripada Fondation yang bikin wajah kelihatan berat dan nggak natural...</p>
+                  <p>Rasakan cinta sejati dengan BB Cream favorit ini, seiring dengan perasaan seperti matahari yang aktif bersinar sepanjang hari. Dengan perlindungan SPF 50 yang andal, kulitmu akan tetap terlindungi dari sinar matahari yang membahayakan. Teksturnya yang istimewa menggabungkan kelembutan dan daya tutup yang tinggi, memberikan kamu tampilan kulit yang tampak sempurna.</p>
+                  <p>Nama sejatinya, #BBCREAM, mengungkapkan segalanya. Ini bukan sekadar produk kecantikan biasa, tapi juga sekutu dalam merawat kulit dari polusi lingkungan sekitar. Selain itu, kandungan unggulnya mampu menyamarkan pori-pori, memberikan kesan kulit yang halus dan mulus.</p>
+                  <p>BB cream ini adalah kunci rahasia bagi tampilan makeupmu yang ideal. Dalam rutinitas makeup harianmu, BB cream menjadi langkah pertama yang ringan, menggantikan fondasi yang seringkali terasa berat dan kurang natural. Jadi, mulailah hari dengan BB cream ini, dan rasakan perbedaannya: kecantikan yang sejati dan perlindungan yang tak tertandingi.</p>
                      <p>Gunakan hashtag #dlemonie #lemonieskincare #lemonieglow #lemonieski #apelsilaxing #rhanie #collagen #rajanieramuanjaheherbal #sarimurnilemon #minumanherbal #Bodyserumlemonie #lemonie untuk berbagi pengalaman Anda dengan D'lemonie dan bergabunglah dengan komunitas kami.</p>
                   </div>
                 </div>

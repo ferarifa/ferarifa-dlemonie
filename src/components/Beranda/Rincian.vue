@@ -1705,11 +1705,9 @@
     </div>
   </div><br/><br/>
 
-  
-
   <div class="container">
       <h3><strong>Testimoni</strong></h3>
-      <div id="carouselJellyserum" class="carousel slide" data-bs-ride="carousel"
+      <div id="carouselJellyserum" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
 

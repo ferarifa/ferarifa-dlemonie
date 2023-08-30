@@ -1546,7 +1546,7 @@
         <div class="content">
           <h3 class="mb-3"><strong>Magic Soap</strong></h3>
           <h4><strong>Manfaat :</strong></h4>
-         <p>Tingkatkan pengalaman perawatan kulit Anda dengan merasakan perbedaan yang nyata saat Anda menggunakan Magic Soap. Produk ini tidak hanya memberikan hasil instan, tetapi juga memberikan manfaat jangka panjang. Setelah penggunaan, Anda akan segera merasakan kulit yang lebih halus dan lembut. Selain itu, Magic Soap juga menyediakan kelembapan yang tahan lama, menjadikan kulit Anda terhidrasi dengan baik sepanjang hari./p>
+         <p>Tingkatkan pengalaman perawatan kulit Anda dengan merasakan perbedaan yang nyata saat Anda menggunakan Magic Soap. Produk ini tidak hanya memberikan hasil instan, tetapi juga memberikan manfaat jangka panjang. Setelah penggunaan, Anda akan segera merasakan kulit yang lebih halus dan lembut. Selain itu, Magic Soap juga menyediakan kelembapan yang tahan lama, menjadikan kulit Anda terhidrasi dengan baik sepanjang hari.</p>
         </div>
 
         <div class="content" id="btn">

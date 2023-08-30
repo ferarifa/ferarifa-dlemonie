@@ -1653,7 +1653,7 @@
         <div class="content">
           <h3 class="mb-3"><strong>Brightening  2 In 1 Serum Lotion</strong></h3>
           <h4><strong>Manfaat :</strong></h4>
-         <p>Jelly Serum 2 in 1 adalah produk revolusioner yang menggabungkan dua manfaat utama dalam satu produk. Produk ini dirancang untuk memberikan perawatan kulit yang komprehensif dan praktis, menjadikannya pilihan ideal bagi mereka yang menginginkan hasil yang luar biasa dengan sedikit usaha./p>
+         <p>Jelly Serum 2 in 1 adalah produk revolusioner yang menggabungkan dua manfaat utama dalam satu produk. Produk ini dirancang untuk memberikan perawatan kulit yang komprehensif dan praktis, menjadikannya pilihan ideal bagi mereka yang menginginkan hasil yang luar biasa dengan sedikit usaha.</p>
         <p>Manfaat pertama dari produk ini adalah kemampuannya sebagai serum perawatan kulit. Dengan kandungan bahan-bahan berkualitas tinggi, seperti asam hialuronat, vitamin C, dan peptida, jelly serum ini membantu menghidrasi kulit secara mendalam dan mengurangi tanda-tanda penuaan seperti garis halus dan kerutan. Kulit akan terasa lebih kenyal, lembut, dan tampak lebih muda.</p>
         </div>
         <div class="content" id="btn">

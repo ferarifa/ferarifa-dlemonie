@@ -1527,10 +1527,12 @@
   <div class="modal-footer">
     <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
   </div>
-</div>
-</div>
-</div>
+           </div>
+          </div>
+         </div>
         </div>
       </div>
+    </div>
+  </div>
 </section>
 </template>

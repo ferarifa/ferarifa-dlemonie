@@ -1529,7 +1529,7 @@
 </div>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("../../static/img/rincian/sunscreensansuyu.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/sunscreensansuyu.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
       </div>
       <br/><br/>
@@ -1582,7 +1582,7 @@
 </div>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("../../static/img/creambrightening.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/creambrightening.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
     </div><br/><br/>
     
@@ -1658,7 +1658,7 @@
 </div>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("../../static/img/magicsoap.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/magicsoap.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
     </div><br/><br/>
     
@@ -1756,7 +1756,7 @@
 </div>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("/img/rincian/jellyserum.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/jellyserum.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
     </div><br/><br/>
     
@@ -1845,6 +1845,9 @@
   <div class="modal-footer">
     <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
   </div>
+     </div>
+        </div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/jellyserum.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
            </div>
           </div>
          </div>

@@ -8,7 +8,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>D'Lemonie</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
           <p>Selalu siap dengan Sari Lemon D'Lemonie, pilihan sempurna bagi mereka yang ingin hidup sehat, bebas kolesterol, dan menjaga tekanan darah. Sari Lemon D'Lemonie adalah dukungan terbaik untuk diet harian Anda.</p>
         </div>
         <div class="content" id="btn">
@@ -114,7 +114,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Rajanie</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
           <p>Rajanie terbuat dari jahe merah alami dengan campuran berbagai macam rempah. Konsumsi setiap pagi hari dapat meningkatkan sistem imun tubuh agar terhindar dari berbagai macam penyakit.</p>
         </div>
         <div class="content" id="btn">
@@ -229,7 +229,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Lemonie Skin</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
         <p>Lemonie skin Di Formulasikan dengan bahan-bahan alami yang aman untuk membantu membersihkan, mencerahkan dan melembutkan kulit. Ketika Anda menggunakan Lemonie Skin, Anda akan merasakan manfaat langsung dari kekuatan bahan-bahan alami yang terkandung di dalamnya. Setiap bahan dipilih secara khusus untuk memastikan bahwa produk ini tidak hanya efektif, tetapi juga aman untuk digunakan oleh berbagai jenis kulit.</p>
         </div>
         <div class="content" id="btn">
@@ -416,7 +416,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Lemonie Glow</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
          <p>Lemonie Glow, dengan formulanya yang diperkaya dengan Turunan Vitamin A dan Honey Dew serta bahan-bahan alami yang aman, secara efektif membantu membuat kulit wajah lebih elastis, mengencangkan, dan mencerahkan. Dengan penggunaan rutin, produk ini dapat memberikan hasil yang terlihat dan menjaga kulit wajah tetap sehat dan bercahaya.</p>
         </div>
         <div class="content" id="btn">
@@ -595,7 +595,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Rhannie</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
           <p>Rhannie Kayu Rapet merupakan produk yang mengandung polifenol yang dapat membantu mengatasi keputihan. Keputihan yang tidak normal dapat disebabkan oleh perubahan pH, infeksi jamur, atau bakteri. Gejala keputihan yang tidak normal biasanya meliputi rasa gatal, bau yang tidak sedap, dan rasa becek pada area kewanitaan.</p>
         </div>
         <div class="content" id="btn">
@@ -688,7 +688,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Apel Silaxing</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
         <p>Apel Silaxing merupakan produk yang dikaitkan dengan penurunan berat badan. Berat badan dapat dipengaruhi oleh beberapa faktor, termasuk pola makan, tingkat aktivitas fisik, dan faktor genetik. Untuk mencapai penurunan berat badan yang sehat dan berkelanjutan, disarankan untuk mengadopsi gaya hidup sehat yang meliputi pola makan seimbang dan aktifitas fisik rutin.</p>
         </div>
         <div class="content" id="btn">
@@ -781,7 +781,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>CL-emonie</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
         <p>Proses regenerasi kulit umumnya terjadi dalam waktu 28 hari, namun seiring bertambahnya usia dan berbagai kebiasaan yang dilakukan dapat membuat proses regenerasi tidak optimal. Untuk mengoptimalkan proses regenerasi kulit, rutin konsumsi suplemen Collagen D'Lemonie ini setiap hari dapat menjadi solusi yang efektif. Suplemen ini dirancang khusus untuk membantu menjaga kelembapan kulit, mengurangi tanda penuaan, dan meningkatkan elastisitas kulit. Dengan mengonsumsi suplemen kolagen Lemonieskin secara teratur, Anda dapat mendukung kesehatan kulit dan merangsang pertumbuhan sel-sel kulit baru secara optimal.</p>
         </div>
         <div class="content" id="btn">
@@ -886,7 +886,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Body Serum LemonieSkin</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
           <p>Jika body lotion bertujuan untuk melembapkan dan menjaga kelembutan kulit, body serum memiliki manfaat yang lebih luas dan intensif. Dengan kandungan antioksidan yang tinggi, seperti vitamin E, C, dan kolagen, body serum memberikan manfaat yang lebih mendalam pada kulit kita. Selain memberikan kelembapan ekstra, body serum juga mengandung bahan-bahan aktif yang dapat melawan tanda-tanda penuaan yang lebih nyata. Dalam jangka panjang, penggunaan body serum secara teratur dapat mengurangi tampilan kulit yang kasar, menyamarkan garis halus yang muncul seiring bertambahnya usia, dan bahkan mencegah kulit agar tidak kendur. Dengan memasukkan body serum ke dalam rutinitas perawatan kulit, kita dapat memberikan perlindungan ekstra dan menjaga keindahan kulit kita secara menyeluruh.</p>
           <p>Terdapat kandungan Collagen didalam nya yang dapat memberikan efek mencerahkan seketika sejak pemakaian pertama. Serta mengandung Alpha Arbutin yang mencerahkan secara permanen dengan pemakaian rutin, melembutkan dan melembabkan kulit dan juga UV filter setara SPF 30</p>
         </div>
@@ -1073,7 +1073,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>BB Cream LemonieSkin</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
           <p>BB Cream adalah kepanjangan dari Blemish Balm/Beauty Balm Cream. Cream ini disebut cream ajaib, kenapa?? karena dalam satu cream ini sudah ada paket all-in-one atau paket lengkap. Yaitu terdiri dari Pelembab, Foundation, Concealer, Sunblock (SPF 50).</p>
         </div>
         <div class="content" id="btn">
@@ -1165,7 +1165,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Jalamonie</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
           <p>Jalamonie adalah sebuah minuman alami yang mengandung bahan-bahan berkualitas tinggi, yang terdiri dari jahe, lemon, gula aren, serta rempah-rempah lainnya. Dibuat dengan komposisi yang tepat, Ramuan Ultimate diformulasikan untuk memberikan manfaat kesehatan yang luar biasa bagi tubuh.<br><br>
             Dengan mencampurkan 1 hingga 2 sendok makan Jalamonie ke dalam 150 hingga 200 cc air hangat, Ramuan Ultimate menjadi minuman yang menyegarkan dan berkhasiat. Jahe yang terkandung di dalamnya memiliki sifat antiinflamasi dan antimikroba yang membantu membersihkan pencernaan, meningkatkan metabolisme, serta mengurangi gejala gangguan pencernaan seperti perut kembung dan mual.</p>
         </div>
@@ -1261,7 +1261,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Chia Seed</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
           <p>Chia Seed adalah sebuah produk yang terbuat dari biji tanaman cha, yang dikenal juga sebagai pohon teh (Camellia sinensis). Biji cha ini memiliki kualitas yang sangat baik dan khasiat yang luar biasa saat digunakan bersama minuman.</p>
           <p>Chia Seed memiliki ciri-ciri fisik yang khas. Mereka berbentuk bulat atau sedikit oval dengan warna yang bervariasi, tergantung pada varietas tanaman cha. Benih ini umumnya berukuran kecil, dengan diameter sekitar 2-3 mm. Permukaan luar cha seed biasanya halus dan berkilau, dengan tekstur yang padat.</p>
         </div>
@@ -1311,7 +1311,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Peeling Spray LemonieSkin</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
          <p>Peeling Spray by Lemonieskin adalah produk revolusioner yang memberikan hasil luar biasa dalam perawatan kulit Anda. Dengan keajaiban semprotan ajaib ini, Anda dapat mengucapkan selamat tinggal pada kulit kering dan kehitaman yang membuat Anda tidak percaya diri. Lemonieskin Peeling Spray akan menjadi solusi terbaik untuk menghadirkan kulit yang cerah dan bercahaya.</p>
         </div>
         <div class="content" id="btn">
@@ -1402,7 +1402,7 @@
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Serum Luxury LemonieSkin</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
           <p>SERUM LUXURY adalah produk yang sempurna bagi mereka yang ingin memiliki kulit yang bersih dan cerah. Serum ini memiliki kualitas terbaik untuk memberikan hidrasi yang optimal dan mencerahkan kulit Anda. Dengan penggunaan serum ini, kulit Anda akan terlihat lebih cerah dan terasa lebih lembut hanya dengan satu kali penggunaan.</p>          
         </div>
         <div class="content" id="btn">
@@ -1484,15 +1484,333 @@
       </div>
     </div>
     <br/><br/>
-  <div class="container garis-panjang"></div>
-  <br/><br/>
+    <div class="container garis-panjang"></div>
+    <br/><br/>
+
+
+    <div class="container-fluid" data-aos="fade-up">
+      <div class="row">
+        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
+          <div class="content">
+            <h3 class="mb-3"><strong>Sunscreen Sansuyu</strong></h3>
+            <h4><strong>Deskripsi :</strong></h4>
+            <p>Sunscreen Sansuyu SPF 50 adalah pilihan sempurna untuk perlindungan kulit sehari-hari. Dengan formula yang inovatif, sunscreen ini tidak hanya melindungi kulit dari sinar matahari dengan SPF 50, tetapi juga memberikan manfaat tambahan untuk mengatasi beberapa masalah kulit umum. Teksturnya yang ringan tidak akan meninggalkan rasa lengket pada kulit.</p>          
+          </div>
+          <div class="content" id="btn">
+            <!-- Button trigger modal -->
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatsunscreensansuyu">Cek Manfaatnya Disini</a>
+
+
+<!-- Modal -->
+<div class="modal fade" id="manfaatsunscreensansuyu" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Sunscreen Sansuyu </h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <ul>
+        <li><i class="bi-check-square-fill"></i> Mencegah Jerawat atau Beruntusan</li>
+        <li><i class="bi-check-square-fill"></i> Mencegah Kulit emerahan</li>
+        <li><i class="bi-check-square-fill"></i> Mencegah Flek Hitam</li>
+        <li><i class="bi-check-square-fill"></i> Mencegah Keriput</li>
+        <li><i class="bi-check-square-fill"></i> Mencegah Garis halus</li>
+        <li><i class="bi-check-square-fill"></i> Mencegah kulit kusam dan kering</li>
+      </ul>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
+    </div>
+  </div>
+</div>
+</div>
+          </div>
+        </div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("../../static/img/rincian/sunscreensansuyu.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+      </div>
+      </div>
+      <br/><br/>
+    <div class="container garis-panjang"></div>
+    <br/><br/>
+
+    <div class="container-fluid" data-aos="fade-up">
+      <div class="row">
+        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
+          <div class="content">
+            <h3 class="mb-3"><strong>Cream Brightening Day & Night</strong></h3>
+            <h4><strong>Deskripsi :</strong></h4>
+            <p>Brightening Day & Night adalah cream spesialis untuk perawatan kulit sehari-hari yang bisa digunakan pada siang dan malam hari. Diformulasikan untuk menghilangkan flek hitam membandel dan noda-noda gelap di wajah, krim ini memberikan efek mencerahkan kulit hingga 10 kali lipat, sambil mengatasi tanda-tanda penuaan dini dan keriput. Dapatkan kulit lebih cerah, sehat, dan segar dengan satu produk praktis ini.</p>          
+          </div>
+          <div class="content" id="btn">
+            <!-- Button trigger modal -->
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatcreambrightening">Cek Manfaatnya Disini</a>
+
+
+<!-- Modal -->
+<div class="modal fade" id="manfaatcreambrightening" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Cream Brightening Day & Night</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <ul>
+        <li><i class="bi-check-square-fill"></i> Menghilangkan Flek hitam membandel</li>
+        <li><i class="bi-check-square-fill"></i> Menghilangkan Noda hitam di wajah</li>
+        <li><i class="bi-check-square-fill"></i> Membantu 10X EXTRA mencerahkan</li>
+        <li><i class="bi-check-square-fill"></i> Membuat wajah menjadi glowing</li>
+        <li><i class="bi-check-square-fill"></i> 10X EXTRA memutihkan</li>
+        <li><i class="bi-check-square-fill"></i> Memberikan efek glow up</li>
+        <li><i class="bi-check-square-fill"></i> Mengatasi tanda tanda penuaan dini</li>
+        <li><i class="bi-check-square-fill"></i> Membuat kulit lebih sehat, cerah, bersinar & Glowing setiap saat</li>  
+        <li><i class="bi-check-square-fill"></i> Berfungsi menetralisir radikal bebas</li>  
+        <li><i class="bi-check-square-fill"></i> Berperan meregenerasi sel kulit</li>
+        <li><i class="bi-check-square-fill"></i> Memperbaiki lapisan kulit yang rusak</li>
+      </ul>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
+    </div>
+  </div>
+</div>
+</div>
+          </div>
+        </div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("../../static/img/creambrightening.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+      </div>
+    </div><br/><br/>
+    
+    <div class="container">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselCreamWhitening" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/creamwhitening/creambrightening1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/creamwhitening/creambrightening2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/creamwhitening/creambrightening3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br/><br/>
+    <div class="container garis-panjang"></div>
+    <br/><br/>
+
+    <div class="container-fluid" data-aos="fade-up">
+      <div class="row">
+        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
+          <div class="content">
+            <h3 class="mb-3"><strong>Brightening Body Mask - Magic Soap</strong></h3>
+            <h4><strong>Deskripsi :</strong></h4>
+            <p>Magic Soap adalah solusi terbaru untuk meraih kulit yang tampak lebih cerah dan alami dengan mudah. Dengan formula unik yang menggabungkan kelembutan lulur dan keajaiban pemutihan kulit, sabun ini tidak hanya membersihkan kulit secara menyeluruh, tetapi juga memberikan hasil yang memukau hanya dengan satu kali penggunaan.</p>          
+          </div>
+          <div class="content" id="btn">
+            <!-- Button trigger modal -->
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatmagicsoap">Cek Manfaatnya Disini</a>
+
+
+<!-- Modal -->
+<div class="modal fade" id="manfaatmagicsoap" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Brightening Body Mask - Magic Soap</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <ul>
+        <li><i class="bi-check-square-fill"></i> Memutihkan 10x lebih cepat</li>
+        <li><i class="bi-check-square-fill"></i> Mengencangkan kulit dan memutihkan kulit</li>
+        <li><i class="bi-check-square-fill"></i> Menjadikan kulit segar dan bersih</li>
+        <li><i class="bi-check-square-fill"></i> Anti bakteri</li>
+        <li><i class="bi-check-square-fill"></i> Pengelupasan Kulit Mati</li>
+        <li><i class="bi-check-square-fill"></i> Perawatan Tubuh</li>
+        <li><i class="bi-check-square-fill"></i> Membersihkan kulit</li>
+        <li><i class="bi-check-square-fill"></i> Pencerah kulit</li>
+        <li><i class="bi-check-square-fill"></i> Kulit Lebih Lembut dan Halus</li>
+        <li><i class="bi-check-square-fill"></i> Pengurangan Gatal-gatal</li>
+        <li><i class="bi-check-square-fill"></i> Tidak Menyebabkan Iritasi</li>
+        <li><i class="bi-check-square-fill"></i> Aroma wangi dan menyegarkan di kulit</li>
+        <li><i class="bi-check-square-fill"></i> Eksfoliasi Tubuh</li>
+      </ul>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
+    </div>
+  </div>
+</div>
+</div>
+          </div>
+        </div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("../../static/img/magicsoap.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+      </div>
+    </div><br/><br/>
+    
+    <div class="container">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselMagicSoap" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/magicsoapp/magicsoap1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/magicsoapp/magicsoap2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/magicsoapp/magicsoap3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/magicsoapp/magicsoap4.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/magicsoapp/magicsoap5.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/magicsoapp/magicsoap6.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+              </div>
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselMagicSoap" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselMagicSoap" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+      <br/><br/>
+    <div class="container garis-panjang"></div>
+    <br/><br/>
+
+    <div class="container-fluid" data-aos="fade-up">
+      <div class="row">
+        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
+          <div class="content">
+            <h3 class="mb-3"><strong>Brightening Serum Lotion 2 In 1 Jar - Jelly Serum</strong></h3>
+            <h4><strong>Deskripsi :</strong></h4>
+            <p>Jelly Serum adalah lotion pengunci revolusioner yang dirancang khusus untuk menjaga kecerahan kulit putih dan membuatnya bertahan lebih lama. Dengan formula inovatif, serum ini tidak hanya memberikan perlindungan ekstra terhadap pigmentasi kulit, tetapi juga meningkatkan efektivitas perawatan pemutihan.</p>          
+          </div>
+          <div class="content" id="btn">
+            <!-- Button trigger modal -->
+          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatjellyserum">Cek Manfaatnya Disini</a>
+
+
+<!-- Modal -->
+<div class="modal fade" id="manfaatjellyserum" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Brightening Serum Lotion 2 In 1 Jar - Jelly Serum</h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <ul>
+        <li><i class="bi-check-square-fill"></i> Pelembab intensif</li>
+        <li><i class="bi-check-square-fill"></i> Nutrisi kulit</li>
+        <li><i class="bi-check-square-fill"></i> Perbaikan Tekstur Kulit</li>
+        <li><i class="bi-check-square-fill"></i> Perlindungan dari radikal bebas</li>
+        <li><i class="bi-check-square-fill"></i> Pencerah kulit</li>
+        <li><i class="bi-check-square-fill"></i> Pengurangan tanda penuaan dini</li>
+        <li><i class="bi-check-square-fill"></i> Penyerapan Cepat</li>
+        <li><i class="bi-check-square-fill"></i> Anti-Inflamasi</li>
+        <li><i class="bi-check-square-fill"></i> Pengurangan Kemerahan</li>
+        <li><i class="bi-check-square-fill"></i> Peningkatan Elastisitas Kulit</li>
+        <li><i class="bi-check-square-fill"></i> Pelembap Jangka Panjang</li>
+        <li><i class="bi-check-square-fill"></i> Mengurangi Munculnya Pori-Pori Besar</li>
+        <li><i class="bi-check-square-fill"></i> Pengencangan Kulit</li>
+        <li><i class="bi-check-square-fill"></i> Perlindungan UV</li>
+      </ul>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
+    </div>
+  </div>
+</div>
+</div>
+          </div>
+        </div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("/img/rincian/jellyserum.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+      </div>
+    </div><br/><br/>
+    
+    <div class="container">
+        <h3><strong>Testimoni</strong></h3>
+        <div id="carouselJellySerum" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jellyserum/jellyserum1.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jellyserum/jellyserum2.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jellyserum/jellyserum3.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jellyserum/jellyserum4.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jellyserum/jellyserum5.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+                <div class="col-md-4">
+                  <img src="../../static/img/testimoni/jellyserum/jellyserum6.jpeg" class="d-block w-100 testimonial-img" alt="...">
+                </div>
+              </div>
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselJellySerum" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselJellySerum" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+      <br/><br/>
+    <div class="container garis-panjang"></div>
+    <br/><br/>
 
   <div class="container-fluid" data-aos="">
     <div class="row">
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch order-2 order-lg-1">
         <div class="content">
           <h3 class="mb-3"><strong>Himalayan Salt Fine</strong></h3>
-          <h4><strong>Manfaat :</strong></h4>
+          <h4><strong>Deskripsi :</strong></h4>
         <P>Garam himalaya berasal dari salah satu tambang garam tertua di dunia, yaitu tambang garam Khewra yang berada di kaki pegunungan Himalaya, Pakistan. Garam yang dihasilkan oleh tambang tersebut memiliki warna putih kemerahan. Inilah yang membuat garam himalaya tampak berwarna merah muda.</P>
         </div>
         <div class="content" id="btn">

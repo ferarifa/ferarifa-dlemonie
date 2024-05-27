@@ -197,7 +197,7 @@
   <div align="center">
     <footer class="footer mt-6 w-100">
       <div class="text-center text-white p-3" style="background-color: #800000">
-          © Copyright - FERA RIFA D'LEMONIE 2023<br/>
+          © Copyright - FERA RIFA D'LEMONIE 2024<br/>
           <strong>All Right Reserved</strong>
       </div>
     </footer>

@@ -1529,7 +1529,7 @@
 </div>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/sunscreensansuyu.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="susnscreensansuyu"  src="../../static/img/rincian/sunscreensansuyu.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
       </div>
       <br/><br/>
@@ -1582,7 +1582,7 @@
 </div>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/creambrightening.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="sunscreensansuyu" src="../../static/img/rincian/creambrightening.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
     </div><br/><br/>
     
@@ -1658,7 +1658,7 @@
 </div>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/magicsoap.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="magicsoap" src="../../static/img/rincian/magicsoap.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
     </div><br/><br/>
     
@@ -1756,7 +1756,7 @@
 </div>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/jellyserum.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="jellyserum" src="../../static/img/rincian/jellyserum.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
       </div>
     </div><br/><br/>
     
@@ -1847,7 +1847,7 @@
   </div>
      </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"  src="../../static/img/rincian/jellyserum.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="himalayansaltfine" src="../../static/img/rincian/himalayansaltfine.png" data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
            </div>
           </div>
          </div>

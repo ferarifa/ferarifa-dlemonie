@@ -1850,7 +1850,7 @@
             </div>
                 </div>
                     </div>
-      <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="serumluxury-bylemonieskin" src="../../static/img/rincian/serumluxury-bylemonieskin.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
+      <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="himalayansaltfine" src="../../static/img/rincian/himalayansaltfine.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">
     </div>
   </div>
 </section>

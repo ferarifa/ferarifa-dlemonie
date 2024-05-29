@@ -1727,19 +1727,20 @@
     </div>
     <div class="modal-body">
       <ul>
-        <li><i class="bi-check-square-fill"></i> Memutihkan 10x lebih cepat</li>
-        <li><i class="bi-check-square-fill"></i> Mengencangkan kulit dan memutihkan kulit</li>
-        <li><i class="bi-check-square-fill"></i> Menjadikan kulit segar dan bersih</li>
-        <li><i class="bi-check-square-fill"></i> Anti bakteri</li>
-        <li><i class="bi-check-square-fill"></i> Pengelupasan Kulit Mati</li>
-        <li><i class="bi-check-square-fill"></i> Perawatan Tubuh</li>
-        <li><i class="bi-check-square-fill"></i> Membersihkan kulit</li>
+        <li><i class="bi-check-square-fill"></i> Pelembab Intensif</li>
+        <li><i class="bi-check-square-fill"></i> Nutrisi kulit</li>
+        <li><i class="bi-check-square-fill"></i> Perbaikan Tekstur Kulit</li>
+        <li><i class="bi-check-square-fill"></i> Perlindungan dari radikal bebas</li>
         <li><i class="bi-check-square-fill"></i> Pencerah kulit</li>
-        <li><i class="bi-check-square-fill"></i> Kulit Lebih Lembut dan Halus</li>
-        <li><i class="bi-check-square-fill"></i> Pengurangan Gatal-gatal</li>
-        <li><i class="bi-check-square-fill"></i> Tidak Menyebabkan Iritasi</li>
-        <li><i class="bi-check-square-fill"></i> Aroma wangi dan menyegarkan di kulit</li>
-        <li><i class="bi-check-square-fill"></i> Eksfoliasi Tubuh</li>
+        <li><i class="bi-check-square-fill"></i> Pengurangan tanda penuaan dini</li>
+        <li><i class="bi-check-square-fill"></i> Penyerapan Cepat</li>
+        <li><i class="bi-check-square-fill"></i> Anti-Inflamasi</li>
+        <li><i class="bi-check-square-fill"></i> Pengurangan Kemerahan</li>
+        <li><i class="bi-check-square-fill"></i> Peningkatan Elastisitas Kulit</li>
+        <li><i class="bi-check-square-fill"></i> Pelembap Jangka Panjang</li>
+        <li><i class="bi-check-square-fill"></i> Mengurangi Munculnya Pori-Pori Besar</li>
+        <li><i class="bi-check-square-fill"></i> Pengencangan Kulit</li>
+        <li><i class="bi-check-square-fill"></i> Perlindungan UV</li>
       </ul>
     </div>
     <div class="modal-footer">

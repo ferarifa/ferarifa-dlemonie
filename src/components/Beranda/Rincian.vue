@@ -1547,14 +1547,12 @@
           <div class="content" id="btn">
             <!-- Button trigger modal -->
           <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatcreambrightening">Cek Manfaatnya Disini</a>
-
-
 <!-- Modal -->
 <div class="modal fade" id="manfaatcreambrightening" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-scrollable" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Cream Brightening Day & Night</h5>
+<div class="modal-dialog modal-dialog-scrollable" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Cream Brightening Day & Night</h5>
       <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>

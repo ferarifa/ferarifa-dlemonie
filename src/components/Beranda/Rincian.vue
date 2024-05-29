@@ -1814,40 +1814,33 @@
         <P>Garam himalaya berasal dari salah satu tambang garam tertua di dunia, yaitu tambang garam Khewra yang berada di kaki pegunungan Himalaya, Pakistan. Garam yang dihasilkan oleh tambang tersebut memiliki warna putih kemerahan. Inilah yang membuat garam himalaya tampak berwarna merah muda.</P>
         </div>
         <div class="content" id="btn">
-          <!-- Button trigger modal -->
-        <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaathimalayansaltfine">Cek Manfaatnya Disini</a>
-
+         <!-- Button trigger modal -->
+<a href="#" class="btn btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatsunscreensansuyu">Cek Manfaatnya Disini</a>
 
 <!-- Modal -->
-<div class="modal fade" id="manfaathimalayansaltfine" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-<div class="modal-dialog modal-dialog-scrollable" role="document">
-<div class="modal-content">
-  <div class="modal-header">
-    <h5 class="modal-title" id="exampleModalScrollable">Manfaat Himalayan Salt Fine</h5>
-    <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
-      <span aria-hidden="true">&times;</span>
-    </button>
+<div class="modal fade" id="manfaatsunscreensansuyu" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalScrollable">Manfaat Sunscreen Sansuyu</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+          <li><i class="bi bi-check-square-fill"></i> Mencegah Jerawat atau Beruntusan</li>
+          <li><i class="bi bi-check-square-fill"></i> Mencegah Kulit Merah</li>
+          <li><i class="bi bi-check-square-fill"></i> Mencegah Flek Hitam</li>
+          <li><i class="bi bi-check-square-fill"></i> Mencegah Keriput</li>
+          <li><i class="bi bi-check-square-fill"></i> Mencegah Garis Halus</li>
+          <li><i class="bi bi-check-square-fill"></i> Mencegah Kulit Kusam dan Kering</li>
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
+      </div>
+    </div>
   </div>
-  <div class="modal-body">
-    <ul>
-      <li><i class="bi-check-square-fill"></i> Menjaga tekanan darah</li>
-      <li><i class="bi-check-square-fill"></i> Mengandung banyak mineral</li>
-      <li><i class="bi-check-square-fill"></i> Membantu masalah pernapasan</li>
-      <li><i class="bi-check-square-fill"></i> Meredakan sakit tenggorokan</li>
-      <li><i class="bi-check-square-fill"></i> Menyeimbangkan pH tubuh</li>
-      <li><i class="bi-check-square-fill"></i> Membantu tubuh melawan infeksi</li>
-      <li><i class="bi-check-square-fill"></i> Membantu membersihkan udara</li>
-      <li><i class="bi-check-square-fill"></i> Dapat membantu tidur lebih nyenyak</li>
-      <li><i class="bi-check-square-fill"></i> Meredakan rasa nyeri</li>
-      <li><i class="bi-check-square-fill"></i> Menjaga tubuh tetap terhidrasi</li>
-    </ul>
-  </div>
-  <div class="modal-footer">
-    <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
-  </div>
-     </div>
-        </div>
-            </div>
+</div>
                 </div>
                     </div>
       <img class="col-lg-5 align-items-stretch order-1 order-lg-2 img" id="himalayansaltfine" src="../../static/img/rincian/himalayansaltfine.png" data-aos="zoom-in" data-aos-delay="150" alt="Gambar">

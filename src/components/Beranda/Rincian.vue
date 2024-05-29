@@ -1717,30 +1717,26 @@
 
 <!-- Modal -->
 <div class="modal fade" id="manfaatjellyserum" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-scrollable" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Brightening Serum Lotion 2 In 1 Jar - Jelly Serum</h5>
+<div class="modal-dialog modal-dialog-scrollable" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Himalayan Salt Fine</h5>
       <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
     <div class="modal-body">
       <ul>
-        <li><i class="bi-check-square-fill"></i> Pelembab intensif</li>
-        <li><i class="bi-check-square-fill"></i> Nutrisi kulit</li>
-        <li><i class="bi-check-square-fill"></i> Perbaikan Tekstur Kulit</li>
-        <li><i class="bi-check-square-fill"></i> Perlindungan dari radikal bebas</li>
-        <li><i class="bi-check-square-fill"></i> Pencerah kulit</li>
-        <li><i class="bi-check-square-fill"></i> Pengurangan tanda penuaan dini</li>
-        <li><i class="bi-check-square-fill"></i> Penyerapan Cepat</li>
-        <li><i class="bi-check-square-fill"></i> Anti-Inflamasi</li>
-        <li><i class="bi-check-square-fill"></i> Pengurangan Kemerahan</li>
-        <li><i class="bi-check-square-fill"></i> Peningkatan Elastisitas Kulit</li>
-        <li><i class="bi-check-square-fill"></i> Pelembap Jangka Panjang</li>
-        <li><i class="bi-check-square-fill"></i> Mengurangi Munculnya Pori-Pori Besar</li>
-        <li><i class="bi-check-square-fill"></i> Pengencangan Kulit</li>
-        <li><i class="bi-check-square-fill"></i> Perlindungan UV</li>
+        <li><i class="bi-check-square-fill"></i> Menjaga tekanan darah</li>
+        <li><i class="bi-check-square-fill"></i> Mengandung banyak mineral</li>
+        <li><i class="bi-check-square-fill"></i> Membantu masalah pernapasan</li>
+        <li><i class="bi-check-square-fill"></i> Meredakan sakit tenggorokan</li>
+        <li><i class="bi-check-square-fill"></i> Menyeimbangkan pH tubuh</li>
+        <li><i class="bi-check-square-fill"></i> Membantu tubuh melawan infeksi</li>
+        <li><i class="bi-check-square-fill"></i> Membantu membersihkan udara</li>
+        <li><i class="bi-check-square-fill"></i> Dapat membantu tidur lebih nyenyak</li>
+        <li><i class="bi-check-square-fill"></i> Meredakan rasa nyeri</li>
+        <li><i class="bi-check-square-fill"></i> Menjaga tubuh tetap terhidrasi</li>
       </ul>
     </div>
     <div class="modal-footer">

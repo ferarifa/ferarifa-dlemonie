@@ -1710,39 +1710,42 @@
             <h4><strong>Deskripsi :</strong></h4>
             <p>Jelly Serum adalah lotion pengunci revolusioner yang dirancang khusus untuk menjaga kecerahan kulit putih dan membuatnya bertahan lebih lama. Dengan formula inovatif, serum ini tidak hanya memberikan perlindungan ekstra terhadap pigmentasi kulit, tetapi juga meningkatkan efektivitas perawatan pemutihan.</p>          
           </div>
-          <div class="content" id="btn">
-            <!-- Button trigger modal -->
-          <a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatjellyserum">Cek Manfaatnya Disini</a>
+         <div class="content" id="btn">
+  <!-- Button trigger modal -->
+<a href="" class="btn-get-manfaat scrollable" data-bs-toggle="modal" data-bs-target="#manfaatmagicsoap">Cek Manfaatnya Disini</a>
 
 
 <!-- Modal -->
-<div class="modal fade" id="manfaatjellyserum" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal fade" id="manfaatmagicsoap" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
 <div class="modal-dialog modal-dialog-scrollable" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Himalayan Salt Fine</h5>
-      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-      </button>
-    </div>
-    <div class="modal-body">
-      <ul>
-        <li><i class="bi-check-square-fill"></i> Menjaga tekanan darah</li>
-        <li><i class="bi-check-square-fill"></i> Mengandung banyak mineral</li>
-        <li><i class="bi-check-square-fill"></i> Membantu masalah pernapasan</li>
-        <li><i class="bi-check-square-fill"></i> Meredakan sakit tenggorokan</li>
-        <li><i class="bi-check-square-fill"></i> Menyeimbangkan pH tubuh</li>
-        <li><i class="bi-check-square-fill"></i> Membantu tubuh melawan infeksi</li>
-        <li><i class="bi-check-square-fill"></i> Membantu membersihkan udara</li>
-        <li><i class="bi-check-square-fill"></i> Dapat membantu tidur lebih nyenyak</li>
-        <li><i class="bi-check-square-fill"></i> Meredakan rasa nyeri</li>
-        <li><i class="bi-check-square-fill"></i> Menjaga tubuh tetap terhidrasi</li>
-      </ul>
-    </div>
-    <div class="modal-footer">
-      <button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
-    </div>
-  </div>
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalScrollable">Manfaat Brightening Body Mask - Magic Soap</h5>
+<button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<ul>
+<li><i class="bi-check-square-fill"></i> Memutihkan 10x lebih cepat</li>
+<li><i class="bi-check-square-fill"></i> Mengencangkan kulit dan memutihkan kulit</li>
+<li><i class="bi-check-square-fill"></i> Menjadikan kulit segar dan bersih</li>
+<li><i class="bi-check-square-fill"></i> Anti bakteri</li>
+<li><i class="bi-check-square-fill"></i> Pengelupasan Kulit Mati</li>
+<li><i class="bi-check-square-fill"></i> Perawatan Tubuh</li>
+<li><i class="bi-check-square-fill"></i> Membersihkan kulit</li>
+<li><i class="bi-check-square-fill"></i> Pencerah kulit</li>
+<li><i class="bi-check-square-fill"></i> Kulit Lebih Lembut dan Halus</li>
+<li><i class="bi-check-square-fill"></i> Pengurangan Gatal-gatal</li>
+<li><i class="bi-check-square-fill"></i> Tidak Menyebabkan Iritasi</li>
+<li><i class="bi-check-square-fill"></i> Aroma wangi dan menyegarkan di kulit</li>
+<li><i class="bi-check-square-fill"></i> Eksfoliasi Tubuh</li>
+</ul>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-dark" data-bs-dismiss="modal">OK</button>
+</div>
+</div>
 </div>
 </div>
           </div>

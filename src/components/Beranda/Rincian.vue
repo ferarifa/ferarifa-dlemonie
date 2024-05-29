@@ -1720,7 +1720,7 @@
   <div class="modal-dialog modal-dialog-scrollable" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalScrollable">Manfaat Brightening Serum Lotion 2 In 1 Jar - Jelly Serum</h5>
+          <h5 class="modal-title" id="exampleModalLongTitle">Manfaat Brightening Serum Lotion 2 In 1 Jar - Jelly Serum</h5>
       <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
       </button>

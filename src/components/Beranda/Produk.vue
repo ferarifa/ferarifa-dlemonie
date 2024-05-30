@@ -120,6 +120,104 @@
   </div>
 
 
+            <div class="row portfolio-container" data-aos="" data-aos-delay="200">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bodycare">
+            <div class="portfolio-img"><img src="../../static/img/rincian/magicsoap.png" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Brightening Body Mask - Magic Soap</h4>
+              <p>Bodycare</p>
+              <a href="/img/preview/magicsoap.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Brightening Body Mask - Magic Soap"><i class="bi bi-zoom-in"></i></a>
+              <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#dle-monie"><i class="bi bi-cart4"></i></a>
+            </div>
+        </div>
+  <!-- Modal -->
+<div class="modal fade" id="dle-monie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-xl modal-dialog-scrollable">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="reseller-title">Brightening Body Mask - Magic Soap<br/></h5>
+        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="container modal-body">
+        <section id="portfolio-details" class="portfolio-details">
+          <div class="container">
+    
+            <div class="row gy-4">
+    
+              <div class="col-lg-8">
+                <div class="portfolio-details-slider swiper">
+                  <div class="swiper-wrapper align-items-center " style="width: 120px; height: 400px; background-size: cover;">
+    
+                    <div class="swiper-slide" style="width: 120px; height: auto; overflow: hidden;">
+                      <img src="../../static/img/produk/magicsoap/magicsoap1.png" alt="">
+                    </div>
+    
+                    <div class="swiper-slide" style="width: 120px; height: auto; overflow: hidden;">
+                      <img src="../../static/img/produk/magicsoap/magicsoap2.png" alt="">
+                    </div>
+    
+                    <div class="swiper-slide" style="width: 200px; height: 470px; overflow: hidden;">
+                      <img src="../../static/img/produk/magicsoap/magicsoap3.png" alt="">
+                    </div>
+
+                      <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/magicsoap/magicsoap.mp4">
+                </video>
+              </div>
+    
+                  </div>
+                  <div class="swiper-pagination"></div>
+                </div>
+                </div>
+
+                  <div class="col-lg-4 row-lg-2">
+                    <div class="portfolio-info produk">
+                      <h3>Detail Produk</h3>
+                      <ul>
+                        <li><strong>Nama Produk</strong>: Brightening Body Mask - Magic Soap</li>
+                        <li><strong>Kategori</strong>: Bodycare</li>
+                        <li><strong>Berat Produk</strong>: 100 Gram</li>
+                        <li><strong>Masa Penyimpanan</strong>: 2 Bulan</li>
+                        <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
+                        <li><strong>Beli Sekarang di bawah ini</strong>:</li>
+                        <li align="center">
+                          <a class="me-4" target="_blank" href="https://shopee.co.id/DLEMONIE-SARI-LEMON-MURNI-Minuman-Herbal-Pelangsing-i.295688286.4468360481?xptdk=12a5ea34-3c8d-498f-b832-0b977c24da6a"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
+                          <a class="me-4" target="_blank" href="https://www.lazada.co.id/products/sari-lemon-terlaris-buat-turun-bb-plus-sehat-i6958484652-s13178560372.html?spm=a2o4j.8553159.0.0.19004fc1mXPjXF&search=store&mp=3"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
+                          <a target="_blank" href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODg2Nzg2NDM3NTQxMjcx?story_media_id=2793393688739691431_51128159602&igshid=MzRlODBiNWFlZA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
+                          <a target="_blank" href="https://vt.tiktok.com/ZSL5D14Yv/"><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
+                        </li>
+                      </ul>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="portfolio-description">
+                <h2>Deskripsi Produk</h2>
+                  <p>
+                    D'lemonie Sari Lemon Murni adalah pilihan terbaik bagi pecinta sari lemon dan lemon peras di pasaran. Dengan keunikan dan kualitasnya, D'lemonie telah menjadi <strong>Pilihan terbaik pilihan paling tepat.</strong> <br>
+                    Keunggulan D'lemonie meliputi: <br>
+                    <strong>1. Bahan Baku lemon berkualitas premium tanpa tambahan air</strong>. D'lemonie menggunakan lemon murni yang dipilih secara teliti untuk menghasilkan rasa dan aroma yang segar dan alami. <br>
+                    <strong>2. Diproses dengan teknologi modern dan higienis</strong>. D'lemonie dikemas dalam proses yang menjaga kualitas nutrisi dan nilai gizi dari lemon, sehingga Anda dapat menikmati manfaat alami dari lemon yang utuh. <br>
+                    <strong>3. Botol standar SNI, Plastik HDPE yang aman, kuat, dan tahan pada suhu tinggi</strong>. Produk D'lemonie hadir dalam kemasan yang praktis dan mudah dibawa, sehingga Anda dapat menikmati segarnya sari lemon D'lemonie di mana saja dan kapan saja. <br>
+                    <strong>4. Halal dan sudah izin BPOM!</strong>. D'lemonie memberikan manfaat yang luar biasa untuk kesehatan Anda, sambil memberikan bonus keinginan untuk menjadi LANGSING. <br><br>
+                    D'lemonie dapat dikonsumsi oleh semua kalangan, mulai dari anak-anak, remaja, dewasa, hingga orang tua. Anda tidak perlu khawatir karena D'lemonie adalah minuman herbal yang alami dan aman untuk dikonsumsi. <br><br>
+                    Dengan memilih D'lemonie, Anda akan merasakan kelezatan sari lemon murni yang segar dan menyegarkan, serta manfaat kesehatan yang kaya akan nutrisi dan vitamin. D'lemonie juga membantu menjaga berat badan ideal dan memberikan dukungan untuk program penurunan berat badan. <br> <br>
+                    Jadi, nikmati kelezatan dan manfaat D'lemonie sekarang juga! Segera rasakan kesegaran dan kesehatan yang ditawarkan oleh <strong>D'Lemonie sari lemon murni</strong> <br><br>
+                    Gunakan hashtag #dlemonie #lemonieskincare #lemonieglow #lemonieski #apelsilaxing #rhanie #collagen #rajanieramuanjaheherbal #sarimurnilemon #minumanherbal #Bodyserumlemonie #lemonie untuk berbagi pengalaman Anda dengan D'lemonie dan bergabunglah dengan komunitas kami.</p>
+                </div>
+            </div>
+          </div>
+        </section>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
+          </div>
+      </div>
+    </div>
+  </div>
+
           <div class="col-lg-4 col-md-6 portfolio-item filter-minuman">
             <div class="portfolio-img"><img src="../../static/img/rincian/produk-rajanie.png" class="img-fluid" alt=""></div>
             <div class="portfolio-info">

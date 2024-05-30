@@ -35,7 +35,7 @@
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a target="_blank" href="https://instagram.com/ferayumna_dlemonie?igshid=YmMyMTA2M2Y=#"><img src="../../static/img/clients/Instagram-logo.png" class="img-fluid" alt=""></a>
+            <a data-bs-toggle="modal" href="#bd-instagram"><img src="../../static/img/clients/Instagram-logo.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
@@ -43,7 +43,7 @@
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a target="_blank" href="https://www.facebook.com/fera.dlemonie?mibextid=ZbWKwL"><img src="../../static/img/clients/Facebook-logo.png" class="img-fluid" alt=""></a>
+            <a data-bs-toggle="modal" href="#bd-facebook"><img src="../../static/img/clients/Facebook-logo.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
@@ -97,17 +97,65 @@
                   </a></div>
                   <div class="cs-box"><a target="_blank" href="https://shopee.co.id/hbpemutihferarifabeautycare">
                     <strong style="float: left">FERARIFABEAUTYCARE OFFICIAL</strong>
-                    <img src="../../static/img/clients/Shopee-Logo.svg" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                    <img src="../../static/img/clients/shopee.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
                     <div class="cs-box"><a target="_blank" href="https://shopee.co.id/ferarifabeautycare_official">
                     <strong style="float: left">FERARIFABEAUTYCARE Official</strong>
-                    <img src="../../static/img/clients/Shopee-Logo.svg" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                    <img src="../../static/img/clients/shopee.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
                     <div class="cs-box"><a target="_blank" href="https://id.shp.ee/tmRaRut">
                     <strong style="float: left">ferarifabeautycareshop</strong>
-                    <img src="../../static/img/clients/Shopee-Logo.svg" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                    <img src="../../static/img/clients/shopee.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
                 </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <!-- Modal -->
+     <div class="modal fade" id="bd-facebook" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Pilih Opsi Akun Facebook</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <div class="cs-box"><a target="_blank" href="https://www.facebook.com/share/7YBb7R2U3fKErFHe/?mibextid=qi2Omg">
+                    <strong style="float: left">Fera Carlan Carlan</strong>
+                    <img src="../../static/img/clients/facebook.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
+                  <div class="cs-box"><a target="_blank" href="https://www.facebook.com/share/yUjGQEYWsrZZArJf/?mibextid=qi2Omg">
+                    <strong style="float: left">Fera Rifa BeautyCare</strong>
+                    <img src="../../static/img/clients/facebook.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+           <!-- Modal -->
+     <div class="modal fade" id="bd-instagram" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Pilih Opsi Akun Instagram</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <div class="cs-box"><a target="_blank" href="https://www.instagram.com/ferayumna_dlemonie?igsh=MXN0ODQwbGRvNjZnZA==">
+                    <strong style="float: left">@ferayumna_dlemonie</strong>
+                    <img src="../../static/img/clients/instagram.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
+                  <div class="cs-box"><a target="_blank" href="https://www.instagram.com/ferarifabeautycare_official?igsh=b3RrcHc1ODAxbms5">
+                    <strong style="float: left">@ferarifabeautycare_official</strong>
+                    <img src="../../static/img/clients/instagram.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
                 </div>

@@ -3,13 +3,13 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-12 footer-contact">
-        <h4>Butuh Bantuan ?<img src="../../static/img/system/down-arrow.gif" alt="Down Arrow" class="down-arrow"></h4>
+        <h4>Butuh Bantuan ?</h4>
         <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">
         <img src="../../static/img/system/whatsapp-logo.png" width="150px" height="150px" alt="WhatsApp Logo 1" class="whatsapp-logo">
         </button>
       </div>
       <div class="col-lg-6 col-md-6 col-12 footer-links">
-        <h4>Ingin Menjadi Reseller ?<img src="../../static/img/system/down-arrow.gif" alt="Down Arrow" class="down-arrow"></h4>
+        <h4>Ingin Menjadi Reseller ?</h4>
         <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#inginmenjadireseller">
           <img src="../../static/img/system/whatsapp-logo.png" width="150px" height="150px" alt="WhatsApp Logo 1" class="whatsapp-logo">
         </button>
@@ -100,6 +100,26 @@
         <strong>Admin Costumer Service 17</strong>
           <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
         </div>
+
+     <div class="cs-box"><a target="_blank" href="http://bit.ly/AdminCSDlemonie">
+        <strong>Admin Costumer Service 18</strong>
+          <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
+        </div>
+
+   <div class="cs-box"><a target="_blank" href="https://bit.ly/CsFeraRifa">
+        <strong>Admin Costumer Service 19</strong>
+          <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
+        </div>
+
+   <div class="cs-box"><a target="_blank" href="https://bit.ly/AdminCSFeraRifa">
+        <strong>Admin Costumer Service 20</strong>
+          <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
+        </div>
+
+  <div class="cs-box"><a target="_blank" href="https://bit.ly/Adminferarifa">
+        <strong>Admin Costumer Service 21</strong>
+          <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
+        </div>
     <div class="modal-footer">
       <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
     </div>
@@ -184,6 +204,26 @@
 
       <div class="cs-box"><a target="_blank" href="https://api.whatsapp.com/send?phone=+628112112031&text=Selamat!%20Anda%20tertarik%20untuk%20bergabung%20sebagai%20reseller%20di%20distributor%20D%27Lemonie%20Tasikmalaya.%20Kami%20senang%20mendengarnya!%0A%0ASebagai%20reseller%2C%20Anda%20akan%20memiliki%20kesempatan%20untuk%20memperluas%20jangkauan%20produk%20D%27Lemonie%20di%20wilayah%20Tasikmalaya.%20Anda%20akan%20menjadi%20bagian%20dari%20tim%20kami%20yang%20berdedikasi%20untuk%20menyediakan%20produk%20berkualitas%20tinggi%20dan%20bahan%20alami%20yang%20aman%20untuk%20membersihkan%2C%20mencerahkan%2C%20dan%20melembutkan%20kulit.%0A%0AKeuntungan%20bergabung%20sebagai%20reseller%20di%20distributor%20D%27Lemonie%20Tasikmalaya%3A%0A%0AProduk%20Berkualitas%3A%20Anda%20akan%20mendapatkan%20produk%20D%27Lemonie%20yang%20terjamin%20kualitasnya%2C%20diformulasikan%20dengan%20bahan-bahan%20alami%20yang%20aman%20dan%20efektif.%0ADukungan%20Marketing%3A%20Kami%20akan%20memberikan%20dukungan%20pemasaran%20dan%20promosi%20untuk%20membantu%20Anda%20memperkenalkan%20produk%20D%27Lemonie%20kepada%20konsumen%20di%20wilayah%20Tasikmalaya.%0A%0APeluang%20Keuntungan%3A%20Sebagai%20reseller%2C%20Anda%20akan%20memiliki%20peluang%20untuk%20mendapatkan%20keuntungan%20yang%20menarik%20melalui%20penjualan%20produk%20D%27Lemonie.%0A%0ABimbingan%20dan%20Dukungan%3A%20Tim%20kami%20siap%20memberikan%20bimbingan%20dan%20dukungan%20penuh%20dalam%20menjalankan%20bisnis%20reseller%2C%20termasuk%20pengetahuan%20produk%20dan%20strategi%20penjualan.%0A%0AJika%20anda%20ingin%20melanjutkan%2C%20Mohon%20konfirmasikan%20di%20whatsapp%20ini%20dengan%20ketik%20%22Saya%20siap%20menjadi%20reseller%22%20di%20kolom%20chat%20ini">
         <strong>Admin Costumer Service 17</strong>
+          <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
+        </div>
+
+    <div class="cs-box"><a target="_blank" href="http://bit.ly/AdminCSDlemonie">
+        <strong>Admin Costumer Service 18</strong>
+          <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
+        </div>
+
+  <div class="cs-box"><a target="_blank" href="https://bit.ly/CsFeraRifa">
+        <strong>Admin Costumer Service 19</strong>
+          <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
+        </div>
+
+  <div class="cs-box"><a target="_blank" href="https://bit.ly/AdminCSFeraRifa">
+        <strong>Admin Costumer Service 20</strong>
+          <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
+        </div>
+
+  <div class="cs-box"><a target="_blank" href="https://bit.ly/Adminferarifa">
+        <strong>Admin Costumer Service 21</strong>
           <img src="../../static/img/system/WhatsApp.svg.webp" alt="WhatsApp" width="24" height="24" style="float: right;"></a></div>
         </div>
     <div class="modal-footer">

@@ -13,9 +13,10 @@
       <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
         <li data-filter="*" class="filter-active">Semua</li>
         <li data-filter=".filter-paketan">Paketan</li>
+        <li data-filter=".filter-peralatan">Peralatan</li>
       </ul>
       <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
-        <li data-filter=".filter-peralatan">Peralatan</li>
+        <li data-filter=".filter-bodycare">Bodycare</li>
         <li data-filter=".filter-promoseller">Promo Seller</li>
         <li data-filter=".filter-obat-obatan">Obat-obatan</li>
       </ul>

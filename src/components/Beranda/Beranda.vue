@@ -115,7 +115,7 @@
             </div>
           </div>
 
-        <!-- Modal -->
+        <!-- Modal Facebook -->
      <div class="modal fade" id="bd-facebook" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
               <div class="modal-content">
@@ -139,7 +139,7 @@
             </div>
           </div>
 
-           <!-- Modal -->
+           <!-- Modal Instagram -->
      <div class="modal fade" id="bd-instagram" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
               <div class="modal-content">

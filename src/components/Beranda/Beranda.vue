@@ -132,6 +132,7 @@
                     <strong style="float: left">Fera Rifa BeautyCare</strong>
                     <img src="../../static/img/clients/facebook.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
+                </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
                 </div>
@@ -156,6 +157,7 @@
                     <strong style="float: left">@ferarifabeautycare_official</strong>
                     <img src="../../static/img/clients/instagram.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
+                </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
                 </div>

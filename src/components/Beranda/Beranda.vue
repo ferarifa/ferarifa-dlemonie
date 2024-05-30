@@ -27,7 +27,7 @@
         <div class="row align-items-center" data-aos="zoom-in">
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a target="_blank" href="https://shopee.co.id/ferarifa123?v=940&smtt=0.0.3"><img src="../../static/img/clients/Shopee-Logo.svg" class="img-fluid" alt=""></a>
+            <a target="_blank" href="#bd-shopee"><img src="../../static/img/clients/Shopee-Logo.svg" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
@@ -62,17 +62,50 @@
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@olshopskincaretasik?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Skincare dan Kosmetik</strong>
+                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@lemonferashop?_t=8mlpaq9jO6L&_r=1">
+                    <strong style="float: left">@lemonferashop</strong>
                     <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@ferarifa?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Produk Kesehatan</strong>
+                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@ferarifalemonie?_t=8mlphEB0aHg&_r=1">
+                    <strong style="float: left">@ferarifalemonie</strong>
                     <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
-                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@lemonferashop?is_from_webapp=1&sender_device=pc">
-                    <strong style="float: left">Tiktok Pelangsing dan Tips Lainnya</strong>
+                  <div class="cs-box"><a target="_blank" href="https://www.tiktok.com/@ferarifabeautycare_?_t=8mlpboZkwO9&_r=1">
+                    <strong style="float: left">@ferarifabeautycare_</strong>
                     <img src="../../static/img/clients/tiktok.png" alt="WhatsApp" width="24px" height="24" style="float: right;">
+                  </a></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+      <!-- Modal -->
+     <div class="modal fade" id="bd-shopee" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Pilih Opsi Akun Shopee</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <div class="cs-box"><a target="_blank" href="http://shopee.co.id/ferarifa123">
+                    <strong style="float: left">Fera Rifa Dlemonie</strong>
+                    <img src="../../static/img/clients/Shopee-Logo.svg" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
+                  <div class="cs-box"><a target="_blank" href="https://shopee.co.id/hbpemutihferarifabeautycare">
+                    <strong style="float: left">FERARIFABEAUTYCARE OFFICIAL</strong>
+                    <img src="../../static/img/clients/Shopee-Logo.svg" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
+                    <div class="cs-box"><a target="_blank" href="https://shopee.co.id/ferarifabeautycare_official">
+                    <strong style="float: left">FERARIFABEAUTYCARE Official</strong>
+                    <img src="../../static/img/clients/Shopee-Logo.svg" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                  </a></div>
+                    <div class="cs-box"><a target="_blank" href="https://id.shp.ee/tmRaRut">
+                    <strong style="float: left">ferarifabeautycareshop</strong>
+                    <img src="../../static/img/clients/Shopee-Logo.svg" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
                 </div>
                 <div class="modal-footer">

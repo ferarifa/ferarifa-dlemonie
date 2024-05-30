@@ -93,7 +93,7 @@
                 <div class="modal-body">
                   <div class="cs-box"><a target="_blank" href="http://shopee.co.id/ferarifa123">
                     <strong style="float: left">Fera Rifa Dlemonie</strong>
-                    <img src="../../static/img/clients/Shopee-Logo.svg" alt="WhatsApp" width="24px" height="24px" style="float: right;">
+                    <img src="../../static/img/clients/shopee.png" alt="WhatsApp" width="24px" height="24px" style="float: right;">
                   </a></div>
                   <div class="cs-box"><a target="_blank" href="https://shopee.co.id/hbpemutihferarifabeautycare">
                     <strong style="float: left">FERARIFABEAUTYCARE OFFICIAL</strong>

@@ -27,7 +27,7 @@
         <div class="row align-items-center" data-aos="zoom-in">
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a target="_blank" href="#bd-shopee"><img src="../../static/img/clients/Shopee-Logo.svg" class="img-fluid" alt=""></a>
+            <a  data-bs-toggle="modal" href="#bd-shopee"><img src="../../static/img/clients/Shopee-Logo.svg" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">

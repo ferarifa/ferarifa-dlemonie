@@ -4627,7 +4627,7 @@
     <div class="portfolio-img"><img src="../../static/img/rincian/creambrightening.png" class="img-fluid" alt=""></div>
     <div class="portfolio-info">
         <h4>Cream Brightening Day & Night</h4>
-        <p>Bodycare</p>
+        <p>Kosmetik</p>
         <a href="/img/preview/creambrightening.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cream Brightening Day & Night"><i class="bi bi-zoom-in"></i></a>
         <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cream-brightening"><i class="bi bi-cart4"></i></a>
     </div>
@@ -4694,10 +4694,94 @@
                                     <strong>1. Krim spesialis menghilangkan Flek hitam membandel atau Noda - noda hitam di wajah</strong><br>
                                     <strong>2. Membantu 10X EXTRA mencerahkan & membuat wajah menjadi glowing</strong><br>
                                     <strong>3. 10X EXTRA memutihkan & memberikan efek glow up</strong><br>
-                                    <strong>4.  Mengatasi tanda tanda penuaan dini dan kulit keriput di wajah</strong><br><br>
-                                    <strong>5.  Membuat kulit lebih sehat, cerah, bersinar & Glowing setiap saat</strong><br><br>
-                                    <strong>5.  Berfungsi menetralisir radikal bebas yang merusak kulit dan menyebabkan penggelapan warna kulit. Serta berperan meregenerasi sel kulit dan memperbaiki lapisan kulit yang rusak</strong><br><br>
+                                    <strong>4.  Mengatasi tanda tanda penuaan dini dan kulit keriput di wajah</strong><br>
+                                    <strong>5.  Membuat kulit lebih sehat, cerah, bersinar & Glowing setiap saat</strong><br>
+                                    <strong>6.  Berfungsi menetralisir radikal bebas yang merusak kulit dan menyebabkan penggelapan warna kulit. Serta berperan meregenerasi sel kulit dan memperbaiki lapisan kulit yang rusak</strong><br><br>
                                    #ferarifabeautycare #dlemonieferateam <br> Netto : 10 gram</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+              <div class="col-lg-4 col-md-6 portfolio-item filter-kosmetik">
+    <div class="portfolio-img"><img src="../../static/img/rincian/sunscreensansuyu.png" class="img-fluid" alt=""></div>
+    <div class="portfolio-info">
+        <h4>Sunscreen Sansuyu</h4>
+        <p>Kosmetik</p>
+        <a href="/img/preview/sunscreensansuyu.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Sunscreen Sansuyu"><i class="bi bi-zoom-in"></i></a>
+        <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#sunscreen-sansuyu"><i class="bi bi-cart4"></i></a>
+    </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="sunscreen-sansuyu" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="reseller-title">Sunscreen Sansuyu<br/></h5>
+                <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <section id="portfolio-details" class="portfolio-details">
+                    <div class="container">
+                        <div class="row gy-4">
+                            <div class="col-lg-8">
+                                <div class="portfolio-details-slider swiper">
+                                    <div class="swiper-wrapper align-items-center " style="width: 120px; height: 400px; background-size: cover;">
+                                        <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu1.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu2.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu3.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu4.mp4">
+                </video>
+              </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 row-lg-2">
+                                <div class="portfolio-info produk">
+                                    <h3>Detail Produk</h3>
+                                    <ul>
+                                        <li><strong>Nama Produk</strong>: Sunscreen Sansuyu</li>
+                                        <li><strong>Kategori</strong>: Kosmetik</li>
+                                        <li><strong>Berat Produk</strong>: 50 ML</li>
+                                        <li><strong>Masa Penyimpanan</strong>: 6 Bulan</li>
+                                        <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
+                                        <li><strong>Beli Sekarang di bawah ini</strong>:</li>
+                                         <li align="center">
+                                            <a class="me-4" target="_blank" href="https://shopee.co.id/Sunscreen-Super-Ringan-Sansuyu-i.295688286.24651175443?sp_atk=b1071f58-fb10-4883-9681-8a1d595e5141&xptdk=b1071f58-fb10-4883-9681-8a1d595e5141"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a class="me-4" target="_blank" href=""><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
+                                            <a target="_blank" href="https://www.instagram.com/p/C7Npv4FB9cC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a target="_blank" href=""><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="portfolio-description">
+                                <h2>Deskripsi Produk</h2>
+                                <p>
+                                Manfaat Sunscreen yang perlu kamu ketahui <br>
+                                Sunscreen dapat mencegah timbulnya noda hitam pada wajah yang biasanya muncul karena paparan sinar matahari. 
+Penggunaan sunscreen juga membantu mencegah timbulnya jerawat dan kerusakan skin barrier akibat paparan sinar matahari yang berlebihan.<br>
+                                   Yakin masih males pakai Sunscreen ??<br>
+                                #SANSUYUSUNSCREEN</p>
                             </div>
                         </div>
                     </div>

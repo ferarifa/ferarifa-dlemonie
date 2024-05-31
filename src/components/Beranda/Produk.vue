@@ -4487,7 +4487,7 @@
                                             <img src="../../static/img/produk/magicsoap/magicsoap3.png" alt="">
                                         </div>
                                         <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream5.mp4">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/magicsoap/magicsoap4.mp4">
                 </video>
               </div>
                                     </div>

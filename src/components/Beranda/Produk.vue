@@ -125,11 +125,11 @@
               <h4>Brightening Body Mask - Magic Soap</h4>
               <p>Bodycare</p>
               <a href="/img/preview/magicsoap.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Brightening Body Mask - Magic Soap"><i class="bi bi-zoom-in"></i></a>
-              <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#magicsoap"><i class="bi bi-cart4"></i></a>
+              <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#magic-soap"><i class="bi bi-cart4"></i></a>
             </div>
         </div>
   <!-- Modal -->
-<div class="modal fade" id="dle-monie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="magic-soap" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog modal-xl modal-dialog-scrollable">
   <div class="modal-content">
     <div class="modal-header">

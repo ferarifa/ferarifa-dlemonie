@@ -205,7 +205,7 @@
       </div>
     </div>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bodycare">
+             <div class="col-lg-4 col-md-6 portfolio-item filter-bodycare">
     <div class="portfolio-img"><img src="../../static/img/rincian/magicsoap.png" class="img-fluid" alt=""></div>
     <div class="portfolio-info">
         <h4>Brightening Body Mask - Magic Soap</h4>
@@ -283,12 +283,9 @@
                     </div>
                 </section>
             </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
-            </div>
-        </div>
-    </div>
-</div>
+        </div> <!-- Ini adalah tag penutup yang seharusnya ada -->
+    </div> <!-- Ini adalah tag penutup yang seharusnya ada -->
+</div> <!-- Ini adalah tag penutup yang seharusnya ada -->
 
      <div class="col-lg-4 col-md-6 portfolio-item filter-promoseller">
             <div class="portfolio-img"><img src="../../static/img/rincian/dlemonie.png" class="img-fluid" alt=""></div>

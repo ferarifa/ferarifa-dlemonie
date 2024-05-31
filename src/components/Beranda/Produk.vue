@@ -4454,7 +4454,7 @@
  <div class="col-lg-4 col-md-6 portfolio-item filter-bodycare">
     <div class="portfolio-img"><img src="../../static/img/rincian/magicsoap.png" class="img-fluid" alt=""></div>
     <div class="portfolio-info">
-        <h4>Brightening Body Mask - Magic Soap</h4>
+        <h4>Magic Soap</h4>
         <p>Bodycare</p>
         <a href="/img/preview/magicsoap.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Brightening Body Mask - Magic Soap"><i class="bi bi-zoom-in"></i></a>
         <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#magic-soap"><i class="bi bi-cart4"></i></a>
@@ -4525,6 +4525,92 @@
                                     <strong>3. Meratakan kulit belang </strong><br>
                                     <strong>4. Meremajakan kulit</strong><br><br>
                                     #sabunmandi#pemutihbadan#mengatasikulitgelap#melembabkankulit#mencerahkankulit#menghilangbekasluka#</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+             <div class="col-lg-4 col-md-6 portfolio-item filter-bodycare">
+    <div class="portfolio-img"><img src="../../static/img/rincian/jellyserum.png" class="img-fluid" alt=""></div>
+    <div class="portfolio-info">
+        <h4>Jelly Serum</h4>
+        <p>Bodycare</p>
+        <a href="/img/preview/jellyserum.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Brightening Serum Lotion 2 In 1 Jar - Jelly Serum"><i class="bi bi-zoom-in"></i></a>
+        <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#jelly-serum"><i class="bi bi-cart4"></i></a>
+    </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="jelly-serum" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="reseller-title">Brightening Serum Lotion 2 In 1 Jar - Jelly Serum<br/></h5>
+                <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <section id="portfolio-details" class="portfolio-details">
+                    <div class="container">
+                        <div class="row gy-4">
+                            <div class="col-lg-8">
+                                <div class="portfolio-details-slider swiper">
+                                    <div class="swiper-wrapper align-items-center " style="width: 120px; height: 400px; background-size: cover;">
+                                        <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/jellyserum/jellyserum1.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/magicsoap/jellyserum2.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/magicsoap/jellyserum3.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/jellyserum/jellyserum4.mp4">
+                </video>
+              </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 row-lg-2">
+                                <div class="portfolio-info produk">
+                                    <h3>Detail Produk</h3>
+                                    <ul>
+                                        <li><strong>Nama Produk</strong>: Brightening Serum Lotion 2 In 1 Jar - Jelly Serum</li>
+                                        <li><strong>Kategori</strong>: Bodycare</li>
+                                        <li><strong>Berat Produk</strong>: 100 Gram</li>
+                                        <li><strong>Masa Penyimpanan</strong>: 6 Bulan</li>
+                                        <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
+                                        <li><strong>Beli Sekarang di bawah ini</strong>:</li>
+                                         <li align="center">
+                                            <a class="me-4" target="_blank" href="https://shopee.co.id/2in1-Serum-Lotion-Pemutih-i.295688286.25768668844?sp_atk=75f138b6-bfc7-4da6-b0dd-d9c0fccfc81c&xptdk=75f138b6-bfc7-4da6-b0dd-d9c0fccfc81c"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a class="me-4" target="_blank" href="https://www.lazada.co.id/products/body-mask-fr-beauty-care-i7699514198-s14156194599.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Afr%253Bnid%253A7699514198%253Bsrc%253AlazadaInShopSrp%253Brn%253A8f9373d907f71882013cd6c675f91861%253Bregion%253Aid%253Bsku%253A7699514198_ID%253Bprice%253A104000%253Bclient%253Adesktop%253Bsupplier_id%253A400737192283%253Bbiz_source%253Ahttps%253A%252F%252Fwww.lazada.co.id%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A3640%253Bitem_id%253A7699514198%253Bsku_id%253A14156194599%253Bshop_id%253A5447859&fastshipping=0&freeshipping=0&fs_ab=2&fuse_fs=&lang=id&location=Kota%20Tasikmalaya&price=1.04E%205&priceCompare=skuId%3A14156194599%3Bsource%3Alazada-search-voucher-in-shop%3Bsn%3A8f9373d907f71882013cd6c675f91861%3BunionTrace%3A8001b29a17171276530972229e%3BoriginPrice%3A10400000%3BvoucherPrice%3A10400000%3BdisplayPrice%3A10400000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A1%3BbuyerId%3A0%3Btimestamp%3A1717127653287&ratingscore=&request_id=8f9373d907f71882013cd6c675f91861&review=&sale=0&search=1&spm=a2o4j.store_keyword.list.0&stock=1"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
+                                            <a target="_blank" href="https://www.instagram.com/p/CzJI-XxBJSA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a target="_blank" href=""><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="portfolio-description">
+                                <h2>Deskripsi Produk</h2>
+                                <p>
+                                    Serum jelly ready❤️Kecintaan siapa aja niiih? Ferarifabeautycare dong 💃<br>
+                                    Puluhan ribu dapat lely serum sebagus ini ♥️<br>
+                                    <strong>1. Mencerahkan memutihkan sekali oles </strong><br>
+                                    <strong>2. Mengatasi beruntusan</strong><br>
+                                    <strong>3. Mengatasi kemerahan</strong><br>
+                                    <strong>4. Mengenyalkan melembabkan kulit</strong><br><br>
+                                    bodylotion#pemutihbadan#mengatasikulitgelap#melembabkankulit#mencerahkankulit#</p>
                             </div>
                         </div>
                     </div>

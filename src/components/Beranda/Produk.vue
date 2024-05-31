@@ -119,91 +119,84 @@
     </div>
   </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-minuman">
-            <div class="portfolio-img"><img src="../../static/img/rincian/produk-rajanie.png" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Rajanie</h4>
-              <p>Minuman</p>
-              <a href="/img/preview/produk-rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rajanie"><i class="bi bi-zoom-in"></i></a>
-              <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#raja-nie"><i class="bi bi-cart4"></i></a>
-              </div>
-          </div>
+    <div class="portfolio-img"><img src="../../static/img/rincian/produk-rajanie.png" class="img-fluid" alt=""></div>
+    <div class="portfolio-info">
+        <h4>Rajanie</h4>
+        <p>Minuman</p>
+        <a href="/img/preview/produk-rajanie.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Rajanie"><i class="bi bi-zoom-in"></i></a>
+        <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#raja-nie"><i class="bi bi-cart4"></i></a>
+    </div>
+</div>
 
 <!-- Modal -->
 <div class="modal fade" id="raja-nie" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-xl modal-dialog-scrollable">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="reseller-title">Rajanie<br/></h5>
-        <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="container modal-body">
-        <section id="portfolio-details" class="portfolio-details">
-          <div class="container">
-    
-            <div class="row gy-4">
-    
-              <div class="col-lg-8">
-                <div class="portfolio-details-slider swiper">
-                  <div class="swiper-wrapper align-items-center" style="width: 120px; height: 400px; background-size: cover;">
-    
-                    <div class="swiper-slide" style="width: 120px; height: auto;  overflow: hidden;">
-                      <img src="../../static/img/produk/rajanie/rajanie1.jpeg" alt="">
+    <div class="modal-dialog modal-xl modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="reseller-title">Rajanie<br/></h5>
+                <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="container modal-body">
+                <section id="portfolio-details" class="portfolio-details">
+                    <div class="container">
+                        <div class="row gy-4">
+                            <div class="col-lg-8">
+                                <div class="portfolio-details-slider swiper">
+                                    <div class="swiper-wrapper align-items-center" style="width: 120px; height: 400px; background-size: cover;">
+                                        <div class="swiper-slide" style="width: 120px; height: auto;  overflow: hidden;">
+                                            <img src="../../static/img/produk/rajanie/rajanie1.jpeg" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="overflow: hidden;">
+                                            <img src="../../static/img/produk/rajanie/rajanie2.jpg" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 500px; overflow: hidden;">
+                                            <img src="../../static/img/produk/rajanie/rajanie3.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 row-lg-2">
+                                <div class="portfolio-info produk">
+                                    <h3>Detail Produk</h3>
+                                    <ul>
+                                        <li><strong>Nama Produk</strong>: Rajanie</li>
+                                        <li><strong>Kategori</strong>: Minuman</li>
+                                        <li><strong>Berat Produk</strong>: 500 Ml</li>
+                                        <li><strong>Masa Penyimpanan</strong>: 2 Bulan</li>
+                                        <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
+                                        <li><strong>Beli Sekarang di bawah ini</strong>:</li>
+                                        <li align="center">
+                                            <a class="me-4" target="_blank" href="https://shopee.co.id/RAJANIE-(Ramuan-Jahe-Merah-Masa-Kini)-i.295688286.5568429398?sp_atk=cf220b5e-0406-43dc-9543-408960335ad8&xptdk=cf220b5e-0406-43dc-9543-408960335ad8"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a class="me-4" target="_blank" href="https://www.lazada.co.id/products/rajanie-ramuan-jahe-masa-kini-i7490970236-s13906296094.html?spm=a2o4j.8553159.0.0.19004fc1sqekWD&priceCompare=skuId%3A13906296094%3Bsource%3Alzd-shop-center%3Bsn%3A5b73f969-787d-4006-89c3-42a3b1669a7e%3BoriginPrice%3A10500000%3BvoucherPrice%3A10500000%3Btimestamp%3A1688779725016&search=store"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
+                                            <a target="_blank" href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTQyOTI0MDc4MDAzODA3?story_media_id=2844141908083893403_51128159602&igshid=MzRlODBiNWFlZA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a target="_blank" href="https://vt.tiktok.com/ZSL5AXEXC/"><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="portfolio-description">
+                                <h2>Deskripsi Produk</h2>
+                                <p>
+                                    RAJANIE ( Ramuan Jahe Merah Masa Kini)<br>
+                                    RAJANIE Adalah ramuan jahe masa kini yang berbahan baku jahe dan lebih dari 10 rempah pilihan lainnya dengan memakai resep keluarga yang turun menurun sehingga kualitas dan khasiat terjaga dengan baik.<br>
+                                    Cukup seduh 2 sendok makan rajanie dengan 200 ml air hangat dan rasakan manfaat serta khasiatnya juga.</p><br>
+                                <p>Gunakan hashtag #dlemonie #lemonieskincare #lemonieglow #lemonieski #apelsilaxing #rhanie #collagen #rajanieramuanjaheherbal #sarimurnilemon #minumanherbal #Bodyserumlemonie #lemonie untuk berbagi pengalaman Anda dengan D'lemonie dan bergabunglah dengan komunitas kami.</p>
+                            </div>
+                        </div>
                     </div>
-    
-                    <div class="swiper-slide" style="overflow: hidden;">
-                      <img src="../../static/img/produk/rajanie/rajanie2.jpg" alt="">
-                    </div>
-    
-                    <div class="swiper-slide" style="width: 200px; height: 500px; overflow: hidden;">
-                      <img src="../../static/img/produk/rajanie/rajanie3.jpeg" alt="">
-                    </div>
-    
-                  </div>
-                  <div class="swiper-pagination"></div>
-                </div>
-              </div>
-    
-                  <div class="col-lg-4 row-lg-2">
-                    <div class="portfolio-info produk">
-                      <h3>Detail Produk</h3>
-                      <ul>
-                        <li><strong>Nama Produk</strong>: Rajanie</li>
-                        <li><strong>Kategori</strong>: Minuman</li>
-                        <li><strong>Berat Produk</strong>: 500 Ml</li>
-                        <li><strong>Masa Penyimpanan</strong>: 2 Bulan</li>
-                        <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
-                        <li><strong>Beli Sekarang di bawah ini</strong>:</li>
-                        <li align="center">
-                          <a class="me-4" target="_blank" href="https://shopee.co.id/RAJANIE-(Ramuan-Jahe-Merah-Masa-Kini)-i.295688286.5568429398?sp_atk=cf220b5e-0406-43dc-9543-408960335ad8&xptdk=cf220b5e-0406-43dc-9543-408960335ad8"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
-                          <a class="me-4" target="_blank" href="https://www.lazada.co.id/products/rajanie-ramuan-jahe-masa-kini-i7490970236-s13906296094.html?spm=a2o4j.8553159.0.0.19004fc1sqekWD&priceCompare=skuId%3A13906296094%3Bsource%3Alzd-shop-center%3Bsn%3A5b73f969-787d-4006-89c3-42a3b1669a7e%3BoriginPrice%3A10500000%3BvoucherPrice%3A10500000%3Btimestamp%3A1688779725016&search=store"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
-                          <a target="_blank" href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTQyOTI0MDc4MDAzODA3?story_media_id=2844141908083893403_51128159602&igshid=MzRlODBiNWFlZA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
-                          <a target="_blank" href="https://vt.tiktok.com/ZSL5AXEXC/"><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                    <div class="row">
-                    <div class="portfolio-description">
-                    <h2>Deskripsi Produk</h2>
-                      <p>
-                        RAJANIE ( Ramuan Jahe Merah Masa Kini)<br>
-                        RAJANIE Adalah ramuan jahe masa kini yang berbahan baku jahe dan lebih dari 10 rempah pilihan lainnya dengan memakai resep keluarga yang turun menurun sehingga kualitas dan khasiat terjaga dengan baik.<br>
-                        Cukup seduh 2 sendok makan rajanie dengan 200 ml air hangat dan rasakan manfaat serta khasiatnya juga.</p><br>
-                       <p>Gunakan hashtag #dlemonie #lemonieskincare #lemonieglow #lemonieski #apelsilaxing #rhanie #collagen #rajanieramuanjaheherbal #sarimurnilemon #minumanherbal #Bodyserumlemonie #lemonie untuk berbagi pengalaman Anda dengan D'lemonie dan bergabunglah dengan komunitas kami.</p>
-                    </div>
-                  </div>
-                </div>
-            </section>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
-          </div>
+                </section>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
+            </div>
         </div>
-      </div>
     </div>
+</div>
 
              <div class="col-lg-4 col-md-6 portfolio-item filter-bodycare">
     <div class="portfolio-img"><img src="../../static/img/rincian/magicsoap.png" class="img-fluid" alt=""></div>

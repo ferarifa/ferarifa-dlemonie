@@ -4737,13 +4737,13 @@
                                 <div class="portfolio-details-slider swiper">
                                     <div class="swiper-wrapper align-items-center " style="width: 120px; height: 400px; background-size: cover;">
                                         <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
-                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu1.png" alt="">
+                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu1.jpg" alt="">
                                         </div>
                                         <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
-                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu2.png" alt="">
+                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu2.jpg" alt="">
                                         </div>
                                         <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu3.png" alt="">
+                                            <img src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu3.jpg" alt="">
                                         </div>
                                         <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
                   <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/sunscreensansuyu/sunscreensansuyu4.mp4">

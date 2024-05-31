@@ -4450,6 +4450,92 @@
       </div>
     </div>
   </div>
+
+ <div class="col-lg-4 col-md-6 portfolio-item filter-bodycare">
+    <div class="portfolio-img"><img src="../../static/img/rincian/magicsoap.png" class="img-fluid" alt=""></div>
+    <div class="portfolio-info">
+        <h4>Brightening Body Mask - Magic Soap</h4>
+        <p>Bodycare</p>
+        <a href="/img/preview/magicsoap.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Brightening Body Mask - Magic Soap"><i class="bi bi-zoom-in"></i></a>
+        <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#magic-soap"><i class="bi bi-cart4"></i></a>
+    </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="magic-soap" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="reseller-title">Brightening Body Mask - Magic Soap<br/></h5>
+                <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <section id="portfolio-details" class="portfolio-details">
+                    <div class="container">
+                        <div class="row gy-4">
+                            <div class="col-lg-8">
+                                <div class="portfolio-details-slider swiper">
+                                    <div class="swiper-wrapper align-items-center " style="width: 120px; height: 400px; background-size: cover;">
+                                        <div class="swiper-slide" style="width: 120px; height: auto; overflow: hidden;">
+                                            <img src="../../static/img/produk/magicsoap/magicsoap1.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 120px; height: auto; overflow: hidden;">
+                                            <img src="../../static/img/produk/magicsoap/magicsoap2.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 470px; overflow: hidden;">
+                                            <img src="../../static/img/produk/magicsoap/magicsoap3.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                                            <video controls class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/magicsoap/magicsoap.mp4"></video>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 row-lg-2">
+                                <div class="portfolio-info produk">
+                                    <h3>Detail Produk</h3>
+                                    <ul>
+                                        <li><strong>Nama Produk</strong>: Brightening Body Mask - Magic Soap</li>
+                                        <li><strong>Kategori</strong>: Bodycare</li>
+                                        <li><strong>Berat Produk</strong>: 100 Gram</li>
+                                        <li><strong>Masa Penyimpanan</strong>: 6 Bulan</li>
+                                        <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
+                                        <li><strong>Beli Sekarang di bawah ini</strong>:</li>
+                                        <li align="center">
+                                            <a class="me-4" target="_blank" href="https://id.shp.ee/dBfjNUN"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a class="me-4" target="_blank" href="https://s.lazada.co.id/s.JsYia"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
+                                            <a target="_blank" href="https://www.instagram.com/reel/C1-6ln5uO8J/?igsh=MWltOGJsdDBqczhwOA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a target="_blank" href=""><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="portfolio-description">
+                                <h2>Deskripsi Produk</h2>
+                                <p>
+                                    Magic Soap sejenis lulur yang tidak berbusa sekali oles sudah bisa menghasilkan putih yang alami dikulit.<br>
+                                    Magic Soap banyak sekali manfaatnya ✨ <br>
+                                    <strong>1. Memutihkan kulit</strong><br>
+                                    <strong>2. Menghilangkan bekas luka</strong><br>
+                                    <strong>3. Meratakan kulit belang </strong><br>
+                                    <strong>4. Meremajakan kulit</strong><br><br>
+                                    #sabunmandi#pemutihbadan#mengatasikulitgelap#melembabkankulit#mencerahkankulit#menghilangbekasluka#</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
+            </div>
+        </div>
+    </div>
+</div>
+            
 </div>
 </div>
 </section><!-- End Portfolio Section -->

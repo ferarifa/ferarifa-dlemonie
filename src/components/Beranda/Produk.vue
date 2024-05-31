@@ -119,8 +119,6 @@
     </div>
   </div>
 
-
-            <div class="row portfolio-container" data-aos="" data-aos-delay="200">
           <div class="col-lg-4 col-md-6 portfolio-item filter-bodycare">
             <div class="portfolio-img"><img src="../../static/img/rincian/magicsoap.png" class="img-fluid" alt=""></div>
             <div class="portfolio-info">

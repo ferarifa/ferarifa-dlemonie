@@ -4567,10 +4567,10 @@
                                             <img src="../../static/img/produk/jellyserum/jellyserum1.png" alt="">
                                         </div>
                                         <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
-                                            <img src="../../static/img/produk/magicsoap/jellyserum2.png" alt="">
+                                            <img src="../../static/img/produk/jellyserum/jellyserum2.png" alt="">
                                         </div>
                                         <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                                            <img src="../../static/img/produk/magicsoap/jellyserum3.png" alt="">
+                                            <img src="../../static/img/produk/jellyserum/jellyserum3.png" alt="">
                                         </div>
                                         <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
                   <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/jellyserum/jellyserum4.mp4">

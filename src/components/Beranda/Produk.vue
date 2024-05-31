@@ -4274,81 +4274,6 @@
     </div>
 </div>
             
-<!-- Modal -->
-<div class="modal fade" id="magic-soap" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-xl modal-dialog-scrollable">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="reseller-title">Brightening Body Mask - Magic Soap<br/></h5>
-                <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <section id="portfolio-details" class="portfolio-details">
-                    <div class="container">
-                        <div class="row gy-4">
-                            <div class="col-lg-8">
-                                <div class="portfolio-details-slider swiper">
-                                    <div class="swiper-wrapper align-items-center " style="width: 120px; height: 400px; background-size: cover;">
-                                        <div class="swiper-slide" style="width: 120px; height: auto; overflow: hidden;">
-                                            <img src="../../static/img/produk/magicsoap/magicsoap1.png" alt="">
-                                        </div>
-                                        <div class="swiper-slide" style="width: 120px; height: auto; overflow: hidden;">
-                                            <img src="../../static/img/produk/magicsoap/magicsoap2.png" alt="">
-                                        </div>
-                                        <div class="swiper-slide" style="width: 200px; height: 470px; overflow: hidden;">
-                                            <img src="../../static/img/produk/magicsoap/magicsoap3.png" alt="">
-                                        </div>
-                                        <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
-                                            <video controls class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/magicsoap/magicsoap.mp4"></video>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-pagination"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 row-lg-2">
-                                <div class="portfolio-info produk">
-                                    <h3>Detail Produk</h3>
-                                    <ul>
-                                        <li><strong>Nama Produk</strong>: Brightening Body Mask - Magic Soap</li>
-                                        <li><strong>Kategori</strong>: Bodycare</li>
-                                        <li><strong>Berat Produk</strong>: 100 Gram</li>
-                                        <li><strong>Masa Penyimpanan</strong>: 6 Bulan</li>
-                                        <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
-                                        <li><strong>Beli Sekarang di bawah ini</strong>:</li>
-                                        <li align="center">
-                                            <a class="me-4" target="_blank" href="https://id.shp.ee/dBfjNUN"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
-                                            <a class="me-4" target="_blank" href="https://s.lazada.co.id/s.JsYia"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
-                                            <a target="_blank" href="https://www.instagram.com/reel/C1-6ln5uO8J/?igsh=MWltOGJsdDBqczhwOA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
-                                            <a target="_blank" href=""><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="portfolio-description">
-                                <h2>Deskripsi Produk</h2>
-                                <p>
-                                    Magic Soap sejenis lulur yang tidak berbusa sekali oles sudah bisa menghasilkan putih yang alami dikulit.<br>
-                                    Magic Soap banyak sekali manfaatnya ✨ <br>
-                                    <strong>1. Memutihkan kulit</strong><br>
-                                    <strong>2. Menghilangkan bekas luka</strong><br>
-                                    <strong>3. Meratakan kulit belang </strong><br>
-                                    <strong>4. Meremajakan kulit</strong><br><br>
-                                    #sabunmandi#pemutihbadan#mengatasikulitgelap#melembabkankulit#mencerahkankulit#menghilangbekasluka#</p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
-            </div>
-        </div>
-    </div>
-</div>
 
   <div class="col-lg-4 col-md-6 portfolio-item filter-kosmetik">
             <div class="portfolio-img"><img src="../../static/img/rincian/bbcream-lemonieskin.png" class="img-fluid" alt=""></div>
@@ -4361,6 +4286,101 @@
         </div>
 
 <!-- Modal -->
+<div class="modal fade" id="bbcream-lemonie-skin" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-xl modal-dialog-scrollable">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="reseller-title">BB Cream LemonieSkin<br/></h5>
+      <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="container modal-body">
+      <section id="portfolio-details" class="portfolio-details">
+        <div class="container">
+  
+          <div class="row gy-4">
+  
+            <div class="col-lg-8">
+              <div class="portfolio-details-slider swiper">
+                <div class="swiper-wrapper align-items-center" style="width: 120px; height: 392px; background-size: cover;">
+  
+                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                    <img src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream1.jpg" alt="">
+                  </div>
+  
+                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                    <img src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream2.jpg" alt="">
+                  </div>
+
+                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                    <img src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream3.jpeg" alt="">
+                  </div>
+
+                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                    <img src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream4.jpeg" alt="">
+                  </div>
+
+                  <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/lemonieskin-bbcream/lemonieskin-bbcream5.mp4">
+                </video>
+              </div>
+  
+                </div>
+                <div class="swiper-pagination"></div>
+              </div>
+            </div>
+  
+                <div class="col-lg-4 row-lg-2">
+                  <div class="portfolio-info produk">
+                    <h3>Detail Produk</h3>
+                    <ul>
+                      <li><strong>Nama Produk</strong>: BB Cream LemonieSkin</li>
+                      <li><strong>Kategori</strong>: Kosmetik</li>
+                      <li><strong>Berat Produk</strong>: 15 Gr</li>
+                      <li><strong>Masa Penyimpanan</strong>: 24 Bulan</li>
+                      <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
+                      <li><strong>Beli Sekarang di bawah ini</strong>:</li>
+                      <li align="center">
+                        <a class="me-4" target="_blank" href="https://shopee.co.id/Cream-khusus-Flek-hitam-yang-membandel-flek-menahun-tuntas-i.295688286.20238485249?sp_atk=a33588d8-f0ed-48ad-bfda-7ac2d544df38&xptdk=a33588d8-f0ed-48ad-bfda-7ac2d544df38"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
+                        <a class="me-4" target="_blank" href="https://www.lazada.co.id/products/glowing-skin-by-bb-cream-lemonieskin-i7491006189-s13906302634.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Abb%252Bcream%253Bnid%253A7491006189%253Bsrc%253AlazadaInShopSrp%253Brn%253A8ffbf94d30806ff3b26c3bde9bb763db%253Bregion%253Aid%253Bsku%253A7491006189_ID%253Bprice%253A288000%253Bclient%253Adesktop%253Bsupplier_id%253A400737192283%253Bpromotion_biz%253A%253Basc_category_id%253A6234%253Bitem_id%253A7491006189%253Bsku_id%253A13906302634%253Bshop_id%253A5447859&fastshipping=0&freeshipping=0&fs_ab=2&fuse_fs=&lang=id&location=Kota%20Tasikmalaya&price=2.88E%205&priceCompare=&ratingscore=5.0&request_id=8ffbf94d30806ff3b26c3bde9bb763db&review=1&sale=5&search=1&source=search&spm=a2o4j.store_product.list.i1.6a5f5c6eHIi1by&stock=1"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
+                        <a target="_blank" href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTY4OTQxNDM2NTIzOTkw?story_media_id=2775317387915059841_51128159602&igshid=MzRlODBiNWFlZA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
+                        <a target="_blank" href=""><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                  <div class="portfolio-description">
+                  <h2>Deskripsi Produk</h2>
+                  <p>Rasakan cinta sejati dengan BB Cream favorit ini, seiring dengan perasaan seperti matahari yang aktif bersinar sepanjang hari. Dengan perlindungan SPF 50 yang andal, kulitmu akan tetap terlindungi dari sinar matahari yang membahayakan. Teksturnya yang istimewa menggabungkan kelembutan dan daya tutup yang tinggi, memberikan kamu tampilan kulit yang tampak sempurna.</p>
+                  <p>Nama sejatinya, #BBCREAM, mengungkapkan segalanya. Ini bukan sekadar produk kecantikan biasa, tapi juga sekutu dalam merawat kulit dari polusi lingkungan sekitar. Selain itu, kandungan unggulnya mampu menyamarkan pori-pori, memberikan kesan kulit yang halus dan mulus.</p>
+                  <p>BB cream ini adalah kunci rahasia bagi tampilan makeupmu yang ideal. Dalam rutinitas makeup harianmu, BB cream menjadi langkah pertama yang ringan, menggantikan fondasi yang seringkali terasa berat dan kurang natural. Jadi, mulailah hari dengan BB cream ini, dan rasakan perbedaannya: kecantikan yang sejati dan perlindungan yang tak tertandingi.</p>
+                     <p>Gunakan hashtag #dlemonie #lemonieskincare #lemonieglow #lemonieski #apelsilaxing #rhanie #collagen #rajanieramuanjaheherbal #sarimurnilemon #minumanherbal #Bodyserumlemonie #lemonie untuk berbagi pengalaman Anda dengan D'lemonie dan bergabunglah dengan komunitas kami.</p>
+                  </div>
+                </div>
+              </div>
+          </section>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+             <div class="col-lg-4 col-md-6 portfolio-item filter-kosmetik">
+            <div class="portfolio-img"><img src="../../static/img/rincian/bbcream-lemonieskin.png" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>BB Cream LemonieSkin</h4>
+              <p>Kosmetik</p>
+              <a href="/img/preview/bbcream-lemonieskin.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="BB Cream LemonieSkin"><i class="bi bi-zoom-in"></i></a>
+              <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#bbcream-lemonie-skin"><i class="bi bi-cart4"></i></a>
+            </div>
+        </div>
+
+<!-- Modal magic Soap -->
 <div class="modal fade" id="bbcream-lemonie-skin" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog modal-xl modal-dialog-scrollable">
   <div class="modal-content">

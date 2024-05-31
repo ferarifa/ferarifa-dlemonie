@@ -273,7 +273,7 @@
                                 <p>
                                     Magic Soap sejenis lulur yang tidak berbusa sekali oles sudah bisa menghasilkan putih yang alami dikulit.<br>
                                     Magic Soap banyak sekali manfaatnya ✨ <br>
-                                    <strong>1. Memutihkan kulit<strong><br>
+                                    <strong>1. Memutihkan kulit</strong><br>
                                     <strong>2. Menghilangkan bekas luka</strong><br>
                                     <strong>3. Meratakan kulit belang </strong><br>
                                     <strong>4. Meremajakan kulit</strong><br><br>

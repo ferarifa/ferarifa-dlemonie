@@ -4503,12 +4503,12 @@
                                         <li><strong>Masa Penyimpanan</strong>: 6 Bulan</li>
                                         <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
                                         <li><strong>Beli Sekarang di bawah ini</strong>:</li>
-                                        <li align="center">
-                                            <a class="me-4" target="_blank" href="https://id.shp.ee/dBfjNUN"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
-                                            <a class="me-4" target="_blank" href="https://s.lazada.co.id/s.JsYia"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
-                                            <a target="_blank" href="https://www.instagram.com/reel/C1-6ln5uO8J/?igsh=MWltOGJsdDBqczhwOA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
-                                            <a target="_blank" href=""><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
-                                        </li>
+                                          <li align="center">
+                        <a class="me-4" target="_blank" href="https://shopee.co.id/DRAJAPEL-REGULER-i.295688286.22569475630?sp_atk=09f19e80-189b-44b8-b44f-60a758a40b40&xptdk=09f19e80-189b-44b8-b44f-60a758a40b40"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
+                        <a class="me-4" target="_blank" href="https://www.lazada.co.id/products/paket-drajapel-pembakar-lemak-ditubuh-i7552288438-s13964646572.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253A%253Bnid%253A7552288438%253Bsrc%253AlazadaInShopSrp%253Brn%253A3523677b2ae133bb19bd7aeb37190165%253Bregion%253Aid%253Bsku%253A7552288438_ID%253Bprice%253A390000%253Bclient%253Adesktop%253Bsupplier_id%253A400737192283%253Bpromotion_biz%253A%253Basc_category_id%253A7893%253Bitem_id%253A7552288438%253Bsku_id%253A13964646572%253Bshop_id%253A5447859&fastshipping=0&freeshipping=0&fs_ab=2&fuse_fs=&lang=id&location=Kota%20Tasikmalaya&price=3.9E%205&priceCompare=&ratingscore=0&request_id=3523677b2ae133bb19bd7aeb37190165&review=&sale=0&search=1&source=search&spm=a2o4j.store_product.list.i35.308c5c6eNOr3Ix&stock=1"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
+                        <a target="_blank" href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTM5MjQ3OTMxNzY1NDg1?story_media_id=2737639771076687721_51128159602&igshid=MzRlODBiNWFlZA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
+                        <a target="_blank" href=""><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
+                      </li>
                                     </ul>
                                 </div>
                             </div>

@@ -4622,6 +4622,93 @@
         </div>
     </div>
 </div>
+
+             <div class="col-lg-4 col-md-6 portfolio-item filter-kosmetik">
+    <div class="portfolio-img"><img src="../../static/img/rincian/creambrightening.png" class="img-fluid" alt=""></div>
+    <div class="portfolio-info">
+        <h4>Cream Brightening Day & Night</h4>
+        <p>Bodycare</p>
+        <a href="/img/preview/creambrightening.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cream Brightening Day & Night"><i class="bi bi-zoom-in"></i></a>
+        <a href="" class="details-link" data-bs-toggle="modal" data-bs-target="#cream-brightening"><i class="bi bi-cart4"></i></a>
+    </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="cream-brightening" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="reseller-title">Cream Brightening Day & Night<br/></h5>
+                <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <section id="portfolio-details" class="portfolio-details">
+                    <div class="container">
+                        <div class="row gy-4">
+                            <div class="col-lg-8">
+                                <div class="portfolio-details-slider swiper">
+                                    <div class="swiper-wrapper align-items-center " style="width: 120px; height: 400px; background-size: cover;">
+                                        <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/creambrightening/creambrightening1.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 120px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/creambrightening/creambrightening2.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                                            <img src="../../static/img/produk/creambrightening/creambrightening3.png" alt="">
+                                        </div>
+                                        <div class="swiper-slide" style="width: 200px; height: 400px; overflow: hidden;">
+                  <video controls ref="videoPlayer" class="c1a3j+" style="display: block; width: 100%; height: 100%;" webkit-playsinline="webkit-playsinline" src="../../static/img/produk/creambrightening/creambrightening4.mp4">
+                </video>
+              </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 row-lg-2">
+                                <div class="portfolio-info produk">
+                                    <h3>Detail Produk</h3>
+                                    <ul>
+                                        <li><strong>Nama Produk</strong>: Cream Brightening Day & Night</li>
+                                        <li><strong>Kategori</strong>: Kosmetik</li>
+                                        <li><strong>Berat Produk</strong>: 10 Gram</li>
+                                        <li><strong>Masa Penyimpanan</strong>: 6 Bulan</li>
+                                        <li><strong>Dikirim dari</strong>: Kota Tasikmalaya</li>
+                                        <li><strong>Beli Sekarang di bawah ini</strong>:</li>
+                                         <li align="center">
+                                            <a class="me-4" target="_blank" href="https://shopee.co.id/Cream-Whitening-Day-Night-i.295688286.28600421464?sp_atk=f308ae74-bbe0-4e98-90ee-d2340051b504&xptdk=f308ae74-bbe0-4e98-90ee-d2340051b504"><img src="../../static/img/clients/Shopee-Logo.svg" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a class="me-4" target="_blank" href="https://www.lazada.co.id/products/cream-whitening-day-night-i8114876117-s14507270270.html?spm=a2o4j.8553159.0.0.19006ecfVcypWw&priceCompare=skuId%3A14507270270%3Bsource%3Alzd-shop-center%3Bsn%3Abe1e4734e05e3e87c75e182c98470077%3BunionTrace%3A2122337817171282845594081ed0e0%3BoriginPrice%3A13300000%3BvoucherPrice%3A13300000%3BdisplayPrice%3A13300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A1%3BbuyerId%3A0%3Btimestamp%3A1717128284620&search=store&mp=3"><img src="../../static/img/clients/Lazada-logo.png" height="70px" width="70px" class="img-fluid" alt=""></a> <br/>
+                                            <a target="_blank" href="https://www.instagram.com/p/C7WHXALhQ98/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="../../static/img/clients/Instagram-logo.png" width="70px" height="70px" class="img-fluid" alt=""></a>
+                                            <a target="_blank" href=""><img src="../../static/img/clients/Tiktokshop-logo.png" width="200px" height="220px" class="img-fluid" alt=""></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="portfolio-description">
+                                <h2>Deskripsi Produk</h2>
+                                <p>
+                                    HANYA 1 CREAM BISA DI PAKE SIANG DAN MALAM😱 MANFAAT BRIGHTENING DAY & NIGHT<br>
+                                    <strong>1. Krim spesialis menghilangkan Flek hitam membandel atau Noda - noda hitam di wajah</strong><br>
+                                    <strong>2. Membantu 10X EXTRA mencerahkan & membuat wajah menjadi glowing</strong><br>
+                                    <strong>3. 10X EXTRA memutihkan & memberikan efek glow up</strong><br>
+                                    <strong>4.  Mengatasi tanda tanda penuaan dini dan kulit keriput di wajah</strong><br><br>
+                                    <strong>5.  Membuat kulit lebih sehat, cerah, bersinar & Glowing setiap saat</strong><br><br>
+                                    <strong>5.  Berfungsi menetralisir radikal bebas yang merusak kulit dan menyebabkan penggelapan warna kulit. Serta berperan meregenerasi sel kulit dan memperbaiki lapisan kulit yang rusak</strong><br><br>
+                                   #ferarifabeautycare #dlemonieferateam <br> Netto : 10 gram</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Kembali</button>
+            </div>
+        </div>
+    </div>
+</div>
             
 </div>
 </div>
